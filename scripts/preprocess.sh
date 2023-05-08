@@ -2,6 +2,7 @@
 revs_full="./data/spark_reviews.csv"
 
 rm -rf ./data/clean_*
+rm -rf $revs_full
 
 echo "Combining reviews dataset into one file ${revs_full}"
 cat ./data/reviews_part* > $revs_full
