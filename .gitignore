@@ -1,0 +1,3 @@
+data/clean_movies.csv
+data/clean_reviews.csv
+data/spark_reviews.csv

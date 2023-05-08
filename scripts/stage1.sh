@@ -12,5 +12,7 @@ fi
 if [ ! -f /usr/hdp/current/sqoop-client/lib/postgresql-42.6.0.jar ]; then
     wget https://jdbc.postgresql.org/download/postgresql-42.6.0.jar --no-check-certificate; mv  postgresql-42.6.0.jar /usr/hdp/current/sqoop-client/lib/
 fi
-psql -U postgres -d project -f ../sql/bd.sql
+psql -U postgres -f ./sql/bd.sql
+
+bash ./scripts/sqoop.sh
 
