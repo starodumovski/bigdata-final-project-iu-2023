@@ -1,6 +1,8 @@
 #!/bin/bash
 revs_full="./data/spark_reviews.csv"
 
+pip2 install -r ./requirements.txt
+
 rm -rf ./data/clean_*
 rm -rf $revs_full
 
