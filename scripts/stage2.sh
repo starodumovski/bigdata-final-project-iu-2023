@@ -1,3 +1,3 @@
 #!/bin/bash
 
-hive -f ../sql/db.hql
+hive -f ./sql/db.hql
