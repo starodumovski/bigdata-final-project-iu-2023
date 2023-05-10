@@ -43,6 +43,12 @@ review_date timestamp,
 review_content VARCHAR(500)
 );
 
+CREATE TABLE genres (
+    genre VARCHAR(100)
+);
+
+
+
 ALTER TABLE reviews
 ADD CONSTRAINT fk_link
 FOREIGN KEY (rotten_tomatoes_link)
@@ -54,3 +60,57 @@ REFERENCES movies (rotten_tomatoes_link);
 
 select count(*) as movies_count from movies;
 select count(*) as reviews_count from reviews;
+
+
+-- The following code chunk is repeated three times to get more unique values for genres
+
+INSERT INTO genres
+SELECT DISTINCT LEFT(genre, CHARINDEX('\', genre)) FROM movies
+WHERE genre LIKE '%,%';
+
+
+INSERT INTO genres
+SELECT DISTINCT genre FROM movies
+WHERE genre NOT LIKE '%,%';
+
+
+
+UPDATE movies SET genre = RIGHT(genre , LEN(genre) - CHARINDEX('\', genre)) WHERE genre LIKE '%, %';
+DELETE FROM movies WHERE genre NOT LIKE '%, %';
+
+INSERT INTO genres
+SELECT DISTINCT LEFT(genre, CHARINDEX('\', genre)) FROM movies
+WHERE genre LIKE '%,%';
+
+
+INSERT INTO genres
+SELECT DISTINCT genre FROM movies
+WHERE genre NOT LIKE '%,%';
+
+
+
+UPDATE movies SET genre = RIGHT(genre , LEN(genre) - CHARINDEX('\', genre)) WHERE genre LIKE '%, %';
+DELETE FROM movies WHERE genre NOT LIKE '%, %';
+
+INSERT INTO genres
+SELECT DISTINCT LEFT(genre, CHARINDEX('\', genre)) FROM movies
+WHERE genre LIKE '%,%';
+
+
+INSERT INTO genres
+SELECT DISTINCT genre FROM movies
+WHERE genre NOT LIKE '%,%';
+
+
+
+UPDATE movies SET genre = RIGHT(genre , LEN(genre) - CHARINDEX('\', genre)) WHERE genre LIKE '%, %';
+DELETE FROM movies WHERE genre NOT LIKE '%, %';
+
+
+UPDATE genres SET genre = DISTINCT genre FROM genres;
+
+
+DELETE FROM movies;
+
+\COPY movies(rotten_tomatoes_link,movie_title,content_rating,genres, directors,authors,actors,original_release_date,streaming_release_date, runtime,production_company,tomatometer_status,tomatometer_rating, tomatometer_count,audience_status,audience_rating,audience_count,tomatometer_top_critics_count, tomatometer_fresh_critics_count,tomatometer_rotten_critics_count) FROM './data/movies.csv'  DELIMITER ','  CSV HEADER;
+
