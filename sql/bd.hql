@@ -23,3 +23,5 @@ CREATE EXTERNAL TABLE reviews STORED AS AVRO LOCATION '/project/reviews' TBLPROP
 -- Check
 SELECT count(*) as movies_count FROM movies;
 SELECT count(*) as reviews_count FROM reviews;
+
+
