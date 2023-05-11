@@ -10,7 +10,7 @@ echo "Combining reviews dataset into one file ${revs_full}"
 cat ./data/reviews_part* > $revs_full
 
 echo "Preprocessing the datasets via pyspark"
-spark-submit ./pyscripts/spark_pre.py
+spark-submit ./scripts/spark_pre.py
 
 rm $revs_full
 
