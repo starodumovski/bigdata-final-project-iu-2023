@@ -1,5 +1,5 @@
 #!/bin/bash
-QUERIES_AMOUNT=3
+QUERIES_AMOUNT=4
 echo "USE projectdb;" > ./sql/temp_queries.hql
 for i in $(seq 1 $QUERIES_AMOUNT)
 do

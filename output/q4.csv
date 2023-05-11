@@ -1,0 +1,2368 @@
+critic_name,genre,liked_percent
+A.O. Scott,Action & Adventure,41.85639229422067
+A.O. Scott,Animation,64.84018264840182
+A.O. Scott,Art House & International,79.38144329896907
+A.O. Scott,Classics,80.0
+A.O. Scott,Comedy,42.12168486739469
+A.O. Scott,Documentary,79.0909090909091
+A.O. Scott,Drama,50.88272383354351
+A.O. Scott,Faith & Spirituality,50.0
+A.O. Scott,Horror,34.25925925925926
+A.O. Scott,Kids & Family,51.515151515151516
+A.O. Scott,Musical & Performing Arts,59.55056179775281
+A.O. Scott,Mystery & Suspense,41.23711340206185
+A.O. Scott,Romance,54.285714285714285
+A.O. Scott,Science Fiction & Fantasy,46.494464944649444
+A.O. Scott,Special Interest,91.2621359223301
+A.O. Scott,Sports & Fitness,86.36363636363636
+A.O. Scott,Television,75.0
+A.O. Scott,Western,60.0
+Alistair Harkness,Action & Adventure,48.822605965463104
+Alistair Harkness,Animation,67.22689075630252
+Alistair Harkness,Art House & International,60.4982206405694
+Alistair Harkness,Classics,16.666666666666664
+Alistair Harkness,Comedy,45.29085872576177
+Alistair Harkness,Documentary,91.66666666666666
+Alistair Harkness,Drama,59.20934411500449
+Alistair Harkness,Horror,57.971014492753625
+Alistair Harkness,Kids & Family,54.811715481171554
+Alistair Harkness,Musical & Performing Arts,50.943396226415096
+Alistair Harkness,Mystery & Suspense,58.93719806763285
+Alistair Harkness,Romance,52.071005917159766
+Alistair Harkness,Science Fiction & Fantasy,59.2797783933518
+Alistair Harkness,Special Interest,73.17073170731707
+Alistair Harkness,Sports & Fitness,75.0
+Alistair Harkness,Television,25.0
+Alistair Harkness,Western,73.68421052631578
+Allan Hunter,Action & Adventure,68.66566716641678
+Allan Hunter,Animation,78.01418439716312
+Allan Hunter,Art House & International,89.16666666666667
+Allan Hunter,Comedy,62.91989664082688
+Allan Hunter,Drama,83.35889570552148
+Allan Hunter,Horror,50.0
+Allan Hunter,Kids & Family,73.23420074349443
+Allan Hunter,Musical & Performing Arts,88.0
+Allan Hunter,Mystery & Suspense,64.02116402116403
+Allan Hunter,Romance,65.11627906976744
+Allan Hunter,Science Fiction & Fantasy,71.31147540983606
+Allan Hunter,Special Interest,97.72727272727273
+Allan Hunter,Western,75.86206896551724
+Andrea Chase,Action & Adventure,55.67260940032415
+Andrea Chase,Animation,83.41121495327103
+Andrea Chase,Art House & International,85.34482758620689
+Andrea Chase,Classics,57.57575757575758
+Andrea Chase,Comedy,69.23579359895493
+Andrea Chase,Cult Movies,33.33333333333333
+Andrea Chase,Documentary,91.07142857142857
+Andrea Chase,Drama,70.32902467685076
+Andrea Chase,Horror,42.81150159744409
+Andrea Chase,Kids & Family,71.09375
+Andrea Chase,Musical & Performing Arts,84.61538461538461
+Andrea Chase,Mystery & Suspense,54.19354838709678
+Andrea Chase,Romance,52.552552552552555
+Andrea Chase,Science Fiction & Fantasy,54.58064516129032
+Andrea Chase,Special Interest,96.3302752293578
+Andrea Chase,Sports & Fitness,77.77777777777779
+Andrea Chase,Western,37.83783783783784
+Bill Gibron,Action & Adventure,53.36426914153132
+Bill Gibron,Animation,60.0
+Bill Gibron,Art House & International,85.88235294117646
+Bill Gibron,Classics,71.875
+Bill Gibron,Comedy,44.056463595839524
+Bill Gibron,Documentary,88.23529411764706
+Bill Gibron,Drama,56.72268907563025
+Bill Gibron,Faith & Spirituality,25.0
+Bill Gibron,Horror,56.839622641509436
+Bill Gibron,Kids & Family,52.075471698113205
+Bill Gibron,Musical & Performing Arts,48.78048780487805
+Bill Gibron,Mystery & Suspense,55.407209612817084
+Bill Gibron,Romance,44.919786096256686
+Bill Gibron,Science Fiction & Fantasy,54.17185554171855
+Bill Gibron,Special Interest,97.6470588235294
+Bill Gibron,Sports & Fitness,75.0
+Bill Gibron,Western,60.60606060606061
+Bill Goodykoontz,Action & Adventure,63.4936211972522
+Bill Goodykoontz,Animation,80.0
+Bill Goodykoontz,Art House & International,92.39766081871345
+Bill Goodykoontz,Classics,76.92307692307693
+Bill Goodykoontz,Comedy,64.53781512605042
+Bill Goodykoontz,Documentary,89.56521739130436
+Bill Goodykoontz,Drama,75.03152585119798
+Bill Goodykoontz,Faith & Spirituality,50.0
+Bill Goodykoontz,Horror,62.19512195121951
+Bill Goodykoontz,Kids & Family,73.68421052631578
+Bill Goodykoontz,Musical & Performing Arts,71.7948717948718
+Bill Goodykoontz,Mystery & Suspense,71.40468227424749
+Bill Goodykoontz,Romance,57.83582089552238
+Bill Goodykoontz,Science Fiction & Fantasy,58.92857142857143
+Bill Goodykoontz,Special Interest,94.5945945945946
+Bill Goodykoontz,Sports & Fitness,77.77777777777779
+Bill Goodykoontz,Western,69.23076923076923
+Bob Bloom,Action & Adventure,59.47888589398024
+Bob Bloom,Animation,93.52331606217616
+Bob Bloom,Art House & International,83.82352941176471
+Bob Bloom,Classics,93.45454545454545
+Bob Bloom,Comedy,70.07007007007007
+Bob Bloom,Cult Movies,54.54545454545454
+Bob Bloom,Documentary,90.0
+Bob Bloom,Drama,73.91304347826086
+Bob Bloom,Horror,59.58549222797927
+Bob Bloom,Kids & Family,85.80786026200873
+Bob Bloom,Musical & Performing Arts,79.46428571428571
+Bob Bloom,Mystery & Suspense,60.909090909090914
+Bob Bloom,Romance,70.98976109215018
+Bob Bloom,Science Fiction & Fantasy,64.05594405594405
+Bob Bloom,Special Interest,92.95774647887323
+Bob Bloom,Western,62.96296296296296
+Brian Orndorf,Action & Adventure,47.30769230769231
+Brian Orndorf,Animation,64.47507953340403
+Brian Orndorf,Art House & International,79.24528301886792
+Brian Orndorf,Classics,69.79166666666666
+Brian Orndorf,Comedy,45.490640952921154
+Brian Orndorf,Cult Movies,94.73684210526315
+Brian Orndorf,Documentary,80.06993006993007
+Brian Orndorf,Drama,55.649867374005304
+Brian Orndorf,Faith & Spirituality,42.857142857142854
+Brian Orndorf,Horror,39.55296404275997
+Brian Orndorf,Kids & Family,53.414001728608476
+Brian Orndorf,Musical & Performing Arts,56.88405797101449
+Brian Orndorf,Mystery & Suspense,46.29731212287439
+Brian Orndorf,Romance,46.395806028833555
+Brian Orndorf,Science Fiction & Fantasy,52.516129032258064
+Brian Orndorf,Special Interest,75.44642857142857
+Brian Orndorf,Sports & Fitness,52.94117647058824
+Brian Orndorf,Television,60.0
+Brian Orndorf,Western,64.19753086419753
+Brian Webster,Action & Adventure,53.970588235294116
+Brian Webster,Animation,91.2109375
+Brian Webster,Art House & International,86.58536585365853
+Brian Webster,Classics,97.0414201183432
+Brian Webster,Comedy,57.21493440968718
+Brian Webster,Documentary,68.96551724137932
+Brian Webster,Drama,66.60430308699719
+Brian Webster,Horror,28.888888888888886
+Brian Webster,Kids & Family,81.52173913043478
+Brian Webster,Musical & Performing Arts,94.28571428571428
+Brian Webster,Mystery & Suspense,53.333333333333336
+Brian Webster,Romance,77.81456953642383
+Brian Webster,Science Fiction & Fantasy,76.83523654159869
+Brian Webster,Special Interest,81.48148148148148
+Brian Webster,Television,28.57142857142857
+Brian Webster,Western,58.333333333333336
+Carrie Rickey,Action & Adventure,57.19063545150501
+Carrie Rickey,Animation,63.725490196078425
+Carrie Rickey,Anime & Manga,33.33333333333333
+Carrie Rickey,Art House & International,82.14285714285714
+Carrie Rickey,Classics,50.0
+Carrie Rickey,Comedy,65.24216524216524
+Carrie Rickey,Documentary,90.42553191489363
+Carrie Rickey,Drama,76.5379113018598
+Carrie Rickey,Faith & Spirituality,50.0
+Carrie Rickey,Horror,45.09803921568628
+Carrie Rickey,Kids & Family,56.447688564476884
+Carrie Rickey,Musical & Performing Arts,61.44578313253012
+Carrie Rickey,Mystery & Suspense,61.694915254237294
+Carrie Rickey,Romance,56.59340659340659
+Carrie Rickey,Science Fiction & Fantasy,55.369127516778526
+Carrie Rickey,Special Interest,84.84848484848484
+Carrie Rickey,Sports & Fitness,83.33333333333334
+Carrie Rickey,Television,88.88888888888889
+Carrie Rickey,Western,47.61904761904761
+Cherryl Dawson and Leigh Ann Palone,Action & Adventure,48.493543758967
+Cherryl Dawson and Leigh Ann Palone,Animation,56.25
+Cherryl Dawson and Leigh Ann Palone,Art House & International,67.69759450171821
+Cherryl Dawson and Leigh Ann Palone,Classics,50.0
+Cherryl Dawson and Leigh Ann Palone,Comedy,50.0
+Cherryl Dawson and Leigh Ann Palone,Documentary,83.76623376623377
+Cherryl Dawson and Leigh Ann Palone,Drama,57.12260807937633
+Cherryl Dawson and Leigh Ann Palone,Faith & Spirituality,59.25925925925925
+Cherryl Dawson and Leigh Ann Palone,Gay & Lesbian,33.33333333333333
+Cherryl Dawson and Leigh Ann Palone,Horror,22.07792207792208
+Cherryl Dawson and Leigh Ann Palone,Kids & Family,47.276688453159046
+Cherryl Dawson and Leigh Ann Palone,Musical & Performing Arts,56.56565656565656
+Cherryl Dawson and Leigh Ann Palone,Mystery & Suspense,48.16247582205029
+Cherryl Dawson and Leigh Ann Palone,Romance,53.714285714285715
+Cherryl Dawson and Leigh Ann Palone,Science Fiction & Fantasy,48.74651810584958
+Cherryl Dawson and Leigh Ann Palone,Special Interest,79.36507936507937
+Cherryl Dawson and Leigh Ann Palone,Sports & Fitness,79.41176470588235
+Cherryl Dawson and Leigh Ann Palone,Television,75.0
+Cherryl Dawson and Leigh Ann Palone,Western,50.0
+Chris Bumbray,Action & Adventure,69.02313624678663
+Chris Bumbray,Animation,87.05882352941177
+Chris Bumbray,Art House & International,92.0
+Chris Bumbray,Classics,88.23529411764706
+Chris Bumbray,Comedy,68.11594202898551
+Chris Bumbray,Cult Movies,75.0
+Chris Bumbray,Drama,77.0754716981132
+Chris Bumbray,Horror,66.34615384615384
+Chris Bumbray,Kids & Family,65.87301587301587
+Chris Bumbray,Musical & Performing Arts,83.33333333333334
+Chris Bumbray,Mystery & Suspense,71.78423236514523
+Chris Bumbray,Romance,63.08724832214765
+Chris Bumbray,Science Fiction & Fantasy,65.25612472160356
+Chris Bumbray,Special Interest,85.29411764705883
+Chris Bumbray,Sports & Fitness,78.57142857142857
+Chris Bumbray,Western,67.74193548387096
+Chris Hewitt,Action & Adventure,61.61670235546038
+Chris Hewitt,Animation,62.14177978883861
+Chris Hewitt,Art House & International,84.55217748562038
+Chris Hewitt,Classics,62.22222222222222
+Chris Hewitt,Comedy,54.071661237785015
+Chris Hewitt,Cult Movies,25.0
+Chris Hewitt,Documentary,62.84403669724771
+Chris Hewitt,Drama,64.9270913277053
+Chris Hewitt,Faith & Spirituality,22.916666666666664
+Chris Hewitt,Gay & Lesbian,63.63636363636363
+Chris Hewitt,Horror,48.09843400447427
+Chris Hewitt,Kids & Family,57.60517799352751
+Chris Hewitt,Musical & Performing Arts,63.519313304721024
+Chris Hewitt,Mystery & Suspense,60.3035143769968
+Chris Hewitt,Romance,77.49796913078798
+Chris Hewitt,Science Fiction & Fantasy,60.24716786817713
+Chris Hewitt,Special Interest,62.24188790560472
+Chris Hewitt,Sports & Fitness,69.76744186046511
+Chris Hewitt,Television,97.22222222222221
+Chris Hewitt,Western,61.702127659574465
+Christian Toto,Action & Adventure,64.25438596491229
+Christian Toto,Animation,77.92792792792793
+Christian Toto,Art House & International,71.9298245614035
+Christian Toto,Classics,75.0
+Christian Toto,Comedy,58.02603036876356
+Christian Toto,Documentary,80.76923076923077
+Christian Toto,Drama,65.1639344262295
+Christian Toto,Horror,51.028806584362144
+Christian Toto,Kids & Family,68.77192982456141
+Christian Toto,Musical & Performing Arts,72.5
+Christian Toto,Mystery & Suspense,64.8870636550308
+Christian Toto,Romance,65.59633027522935
+Christian Toto,Science Fiction & Fantasy,60.25104602510461
+Christian Toto,Special Interest,61.53846153846154
+Christian Toto,Sports & Fitness,84.61538461538461
+Christian Toto,Television,41.66666666666667
+Christian Toto,Western,88.46153846153845
+Christopher Null,Action & Adventure,49.90328820116054
+Christopher Null,Animation,67.60330578512396
+Christopher Null,Art House & International,64.63414634146342
+Christopher Null,Classics,77.5
+Christopher Null,Comedy,56.22119815668203
+Christopher Null,Cult Movies,75.0
+Christopher Null,Documentary,62.295081967213115
+Christopher Null,Drama,63.05084745762712
+Christopher Null,Faith & Spirituality,77.77777777777779
+Christopher Null,Horror,47.868852459016395
+Christopher Null,Kids & Family,63.56821589205397
+Christopher Null,Musical & Performing Arts,83.69098712446352
+Christopher Null,Mystery & Suspense,56.030534351145036
+Christopher Null,Romance,62.65984654731458
+Christopher Null,Science Fiction & Fantasy,69.80198019801979
+Christopher Null,Special Interest,63.1578947368421
+Christopher Null,Sports & Fitness,94.11764705882352
+Christopher Null,Television,28.57142857142857
+Christopher Null,Western,52.85714285714286
+Claudia Puig,Action & Adventure,51.141924959216965
+Claudia Puig,Animation,65.23297491039428
+Claudia Puig,Art House & International,95.60283687943263
+Claudia Puig,Classics,66.66666666666666
+Claudia Puig,Comedy,56.70350792888035
+Claudia Puig,Documentary,78.76106194690266
+Claudia Puig,Drama,71.1645101663586
+Claudia Puig,Faith & Spirituality,85.71428571428571
+Claudia Puig,Horror,40.20100502512563
+Claudia Puig,Kids & Family,62.11096075778079
+Claudia Puig,Musical & Performing Arts,65.9090909090909
+Claudia Puig,Mystery & Suspense,49.696969696969695
+Claudia Puig,Romance,77.08333333333334
+Claudia Puig,Science Fiction & Fantasy,51.743375174337515
+Claudia Puig,Special Interest,77.21518987341773
+Claudia Puig,Sports & Fitness,69.6969696969697
+Claudia Puig,Television,55.55555555555556
+Claudia Puig,Western,50.0
+Cole Smithey,Action & Adventure,53.92156862745098
+Cole Smithey,Animation,59.30521091811415
+Cole Smithey,Art House & International,38.934056007226744
+Cole Smithey,Classics,95.1890034364261
+Cole Smithey,Comedy,48.7473903966597
+Cole Smithey,Cult Movies,87.5
+Cole Smithey,Documentary,95.11278195488721
+Cole Smithey,Drama,54.63818935288492
+Cole Smithey,Faith & Spirituality,60.0
+Cole Smithey,Horror,48.80952380952381
+Cole Smithey,Kids & Family,58.76494023904383
+Cole Smithey,Musical & Performing Arts,69.93006993006993
+Cole Smithey,Mystery & Suspense,58.971962616822424
+Cole Smithey,Romance,28.000000000000004
+Cole Smithey,Science Fiction & Fantasy,45.20547945205479
+Cole Smithey,Special Interest,89.74358974358975
+Cole Smithey,Sports & Fitness,90.69767441860465
+Cole Smithey,Television,50.0
+Cole Smithey,Western,76.47058823529412
+Dan Lybarger,Action & Adventure,41.37931034482759
+Dan Lybarger,Animation,52.40793201133145
+Dan Lybarger,Art House & International,81.97674418604652
+Dan Lybarger,Classics,53.125
+Dan Lybarger,Comedy,44.26229508196721
+Dan Lybarger,Cult Movies,20.0
+Dan Lybarger,Documentary,80.3030303030303
+Dan Lybarger,Drama,61.01522842639594
+Dan Lybarger,Horror,23.376623376623375
+Dan Lybarger,Kids & Family,40.089086859688194
+Dan Lybarger,Musical & Performing Arts,62.5
+Dan Lybarger,Mystery & Suspense,43.82022471910113
+Dan Lybarger,Romance,49.64028776978417
+Dan Lybarger,Science Fiction & Fantasy,42.19948849104859
+Dan Lybarger,Special Interest,76.47058823529412
+Dan Lybarger,Western,71.42857142857143
+Daniel M. Kimmel,Action & Adventure,66.96859903381642
+Daniel M. Kimmel,Animation,65.98639455782312
+Daniel M. Kimmel,Art House & International,78.48101265822784
+Daniel M. Kimmel,Classics,46.34146341463415
+Daniel M. Kimmel,Comedy,53.796350794585045
+Daniel M. Kimmel,Documentary,72.46376811594203
+Daniel M. Kimmel,Drama,68.27458256029685
+Daniel M. Kimmel,Faith & Spirituality,50.0
+Daniel M. Kimmel,Horror,60.33898305084746
+Daniel M. Kimmel,Kids & Family,62.515883100381195
+Daniel M. Kimmel,Musical & Performing Arts,65.17857142857143
+Daniel M. Kimmel,Mystery & Suspense,68.09078771695593
+Daniel M. Kimmel,Romance,50.89514066496164
+Daniel M. Kimmel,Science Fiction & Fantasy,73.76294591484465
+Daniel M. Kimmel,Special Interest,89.0909090909091
+Daniel M. Kimmel,Sports & Fitness,71.42857142857143
+Daniel M. Kimmel,Television,27.27272727272727
+Daniel M. Kimmel,Western,82.85714285714286
+David Nusair,Action & Adventure,52.2911051212938
+David Nusair,Animation,62.44274809160305
+David Nusair,Art House & International,50.0
+David Nusair,Classics,68.4981684981685
+David Nusair,Comedy,47.61459307764266
+David Nusair,Cult Movies,88.23529411764706
+David Nusair,Documentary,68.93203883495146
+David Nusair,Drama,59.25608011444922
+David Nusair,Horror,51.46048109965635
+David Nusair,Kids & Family,53.326612903225815
+David Nusair,Musical & Performing Arts,61.0062893081761
+David Nusair,Mystery & Suspense,61.771786230139625
+David Nusair,Romance,57.74647887323944
+David Nusair,Science Fiction & Fantasy,53.835425383542535
+David Nusair,Special Interest,65.625
+David Nusair,Sports & Fitness,51.92307692307693
+David Nusair,Television,48.484848484848484
+David Nusair,Western,51.64835164835166
+Dennis Schwartz,Action & Adventure,47.92473713337023
+Dennis Schwartz,Animation,87.2289156626506
+Dennis Schwartz,Art House & International,45.92687620269403
+Dennis Schwartz,Classics,87.1875
+Dennis Schwartz,Comedy,51.183431952662716
+Dennis Schwartz,Cult Movies,65.21739130434783
+Dennis Schwartz,Documentary,87.5
+Dennis Schwartz,Drama,54.49234488315874
+Dennis Schwartz,Faith & Spirituality,30.76923076923077
+Dennis Schwartz,Gay & Lesbian,93.75
+Dennis Schwartz,Horror,46.348314606741575
+Dennis Schwartz,Kids & Family,77.99607072691552
+Dennis Schwartz,Musical & Performing Arts,72.31270358306189
+Dennis Schwartz,Mystery & Suspense,49.892933618843685
+Dennis Schwartz,Romance,34.416543574593796
+Dennis Schwartz,Science Fiction & Fantasy,60.219263899765075
+Dennis Schwartz,Special Interest,78.38616714697406
+Dennis Schwartz,Sports & Fitness,68.62745098039215
+Dennis Schwartz,Television,90.0
+Dennis Schwartz,Western,57.92682926829268
+Duane Dudek,Action & Adventure,60.518292682926834
+Duane Dudek,Animation,77.5330396475771
+Duane Dudek,Art House & International,94.08866995073892
+Duane Dudek,Classics,77.14285714285715
+Duane Dudek,Comedy,59.01060070671378
+Duane Dudek,Documentary,87.09677419354838
+Duane Dudek,Drama,79.35924369747899
+Duane Dudek,Gay & Lesbian,50.0
+Duane Dudek,Horror,43.529411764705884
+Duane Dudek,Kids & Family,67.3913043478261
+Duane Dudek,Musical & Performing Arts,76.05633802816901
+Duane Dudek,Mystery & Suspense,57.943925233644855
+Duane Dudek,Romance,90.14267185473412
+Duane Dudek,Science Fiction & Fantasy,56.07064017660044
+Duane Dudek,Special Interest,91.56626506024097
+Duane Dudek,Sports & Fitness,83.33333333333334
+Duane Dudek,Television,83.33333333333334
+Duane Dudek,Western,53.84615384615385
+Dustin Putman,Action & Adventure,40.68021201413428
+Dustin Putman,Animation,57.55813953488372
+Dustin Putman,Art House & International,79.5774647887324
+Dustin Putman,Classics,75.83333333333333
+Dustin Putman,Comedy,42.238154613466335
+Dustin Putman,Cult Movies,66.66666666666666
+Dustin Putman,Documentary,25.384615384615383
+Dustin Putman,Drama,55.236294896030245
+Dustin Putman,Faith & Spirituality,50.0
+Dustin Putman,Horror,58.10684161199625
+Dustin Putman,Kids & Family,50.74135090609555
+Dustin Putman,Musical & Performing Arts,65.19337016574586
+Dustin Putman,Mystery & Suspense,53.2792004996877
+Dustin Putman,Romance,44.052863436123346
+Dustin Putman,Science Fiction & Fantasy,48.09215262778977
+Dustin Putman,Special Interest,39.53488372093023
+Dustin Putman,Sports & Fitness,58.333333333333336
+Dustin Putman,Television,33.33333333333333
+Dustin Putman,Western,33.9622641509434
+Ed Gonzalez,Action & Adventure,31.62251655629139
+Ed Gonzalez,Animation,37.29216152019003
+Ed Gonzalez,Art House & International,53.03030303030303
+Ed Gonzalez,Classics,85.39325842696628
+Ed Gonzalez,Comedy,36.95652173913043
+Ed Gonzalez,Cult Movies,33.33333333333333
+Ed Gonzalez,Documentary,55.00000000000001
+Ed Gonzalez,Drama,40.35493827160494
+Ed Gonzalez,Horror,44.47674418604651
+Ed Gonzalez,Kids & Family,34.04255319148936
+Ed Gonzalez,Musical & Performing Arts,34.21052631578947
+Ed Gonzalez,Mystery & Suspense,42.4793388429752
+Ed Gonzalez,Romance,34.099616858237546
+Ed Gonzalez,Science Fiction & Fantasy,37.851662404092075
+Ed Gonzalez,Special Interest,54.71698113207547
+Ed Gonzalez,Sports & Fitness,27.77777777777778
+Ed Gonzalez,Television,76.92307692307693
+Ed Gonzalez,Western,33.33333333333333
+Edward Douglas,Action & Adventure,63.61233480176212
+Edward Douglas,Animation,73.97260273972603
+Edward Douglas,Art House & International,73.10126582278481
+Edward Douglas,Classics,83.33333333333334
+Edward Douglas,Comedy,63.97174254317112
+Edward Douglas,Documentary,89.52879581151832
+Edward Douglas,Drama,68.50436681222706
+Edward Douglas,Horror,52.8023598820059
+Edward Douglas,Kids & Family,72.72727272727273
+Edward Douglas,Musical & Performing Arts,60.67415730337079
+Edward Douglas,Mystery & Suspense,64.58885941644562
+Edward Douglas,Romance,54.41595441595442
+Edward Douglas,Science Fiction & Fantasy,64.04160475482912
+Edward Douglas,Special Interest,88.38709677419355
+Edward Douglas,Sports & Fitness,78.57142857142857
+Edward Douglas,Television,92.3076923076923
+Edward Douglas,Western,68.96551724137932
+Elizabeth Weitzman,Action & Adventure,55.301794453507334
+Elizabeth Weitzman,Animation,79.58333333333333
+Elizabeth Weitzman,Art House & International,70.73170731707317
+Elizabeth Weitzman,Classics,42.857142857142854
+Elizabeth Weitzman,Comedy,39.466089466089464
+Elizabeth Weitzman,Documentary,74.28571428571429
+Elizabeth Weitzman,Drama,44.93898061737258
+Elizabeth Weitzman,Faith & Spirituality,30.0
+Elizabeth Weitzman,Gay & Lesbian,40.0
+Elizabeth Weitzman,Horror,52.42718446601942
+Elizabeth Weitzman,Kids & Family,66.1807580174927
+Elizabeth Weitzman,Musical & Performing Arts,73.10924369747899
+Elizabeth Weitzman,Mystery & Suspense,50.672645739910315
+Elizabeth Weitzman,Romance,37.84722222222222
+Elizabeth Weitzman,Science Fiction & Fantasy,58.71559633027523
+Elizabeth Weitzman,Special Interest,72.38805970149254
+Elizabeth Weitzman,Sports & Fitness,41.66666666666667
+Elizabeth Weitzman,Television,75.0
+Elizabeth Weitzman,Western,36.84210526315789
+Emanuel Levy,Action & Adventure,58.26645264847512
+Emanuel Levy,Animation,79.87012987012987
+Emanuel Levy,Art House & International,91.47005444646098
+Emanuel Levy,Classics,86.16352201257862
+Emanuel Levy,Comedy,52.94117647058824
+Emanuel Levy,Documentary,97.36842105263158
+Emanuel Levy,Drama,71.01876675603216
+Emanuel Levy,Horror,53.036437246963565
+Emanuel Levy,Kids & Family,71.5311004784689
+Emanuel Levy,Musical & Performing Arts,78.2258064516129
+Emanuel Levy,Mystery & Suspense,66.44736842105263
+Emanuel Levy,Romance,79.140625
+Emanuel Levy,Science Fiction & Fantasy,58.90227576974565
+Emanuel Levy,Special Interest,79.82456140350878
+Emanuel Levy,Sports & Fitness,91.42857142857143
+Emanuel Levy,Television,97.2972972972973
+Emanuel Levy,Western,81.92771084337349
+Eric D. Snider,Action & Adventure,52.402334979793444
+Eric D. Snider,Animation,63.13131313131313
+Eric D. Snider,Art House & International,93.78468368479467
+Eric D. Snider,Classics,66.66666666666666
+Eric D. Snider,Comedy,54.42108775442108
+Eric D. Snider,Cult Movies,75.0
+Eric D. Snider,Documentary,76.878612716763
+Eric D. Snider,Drama,67.49796692870696
+Eric D. Snider,Faith & Spirituality,19.047619047619047
+Eric D. Snider,Gay & Lesbian,40.0
+Eric D. Snider,Horror,52.345679012345684
+Eric D. Snider,Kids & Family,57.738646895273405
+Eric D. Snider,Musical & Performing Arts,63.101604278074866
+Eric D. Snider,Mystery & Suspense,58.03389830508474
+Eric D. Snider,Romance,72.75021026072329
+Eric D. Snider,Science Fiction & Fantasy,52.35478806907379
+Eric D. Snider,Special Interest,84.71337579617835
+Eric D. Snider,Sports & Fitness,70.37037037037037
+Eric D. Snider,Television,33.33333333333333
+Eric D. Snider,Western,48.07692307692308
+Erik Childress,Action & Adventure,41.34969325153374
+Erik Childress,Animation,68.11145510835914
+Erik Childress,Art House & International,61.66666666666667
+Erik Childress,Classics,69.6969696969697
+Erik Childress,Comedy,52.794411177644704
+Erik Childress,Documentary,77.41935483870968
+Erik Childress,Drama,49.2093023255814
+Erik Childress,Horror,50.45454545454545
+Erik Childress,Kids & Family,62.98507462686567
+Erik Childress,Musical & Performing Arts,38.983050847457626
+Erik Childress,Mystery & Suspense,46.890756302521005
+Erik Childress,Romance,31.25
+Erik Childress,Science Fiction & Fantasy,42.64069264069264
+Erik Childress,Special Interest,68.57142857142857
+Erik Childress,Sports & Fitness,69.23076923076923
+Erik Childress,Television,66.66666666666666
+Erik Childress,Western,66.66666666666666
+Eugene Novikov,Action & Adventure,55.14705882352941
+Eugene Novikov,Animation,73.07692307692307
+Eugene Novikov,Art House & International,73.52941176470588
+Eugene Novikov,Classics,76.31578947368422
+Eugene Novikov,Comedy,54.76603119584056
+Eugene Novikov,Cult Movies,20.0
+Eugene Novikov,Documentary,75.71428571428571
+Eugene Novikov,Drama,62.832494608195546
+Eugene Novikov,Horror,47.65342960288809
+Eugene Novikov,Kids & Family,64.73214285714286
+Eugene Novikov,Musical & Performing Arts,73.33333333333333
+Eugene Novikov,Mystery & Suspense,61.48036253776436
+Eugene Novikov,Romance,51.35135135135135
+Eugene Novikov,Science Fiction & Fantasy,70.55555555555556
+Eugene Novikov,Special Interest,67.46987951807229
+Eugene Novikov,Sports & Fitness,27.27272727272727
+Eugene Novikov,Television,75.0
+Eugene Novikov,Western,41.37931034482759
+Frank Ochieng,Action & Adventure,39.195402298850574
+Frank Ochieng,Animation,54.97076023391813
+Frank Ochieng,Art House & International,74.0
+Frank Ochieng,Classics,82.92682926829268
+Frank Ochieng,Comedy,33.15412186379928
+Frank Ochieng,Documentary,86.11111111111111
+Frank Ochieng,Drama,49.950149551345966
+Frank Ochieng,Horror,20.37617554858934
+Frank Ochieng,Kids & Family,33.75
+Frank Ochieng,Musical & Performing Arts,60.60606060606061
+Frank Ochieng,Mystery & Suspense,33.726812816188875
+Frank Ochieng,Romance,36.23853211009174
+Frank Ochieng,Science Fiction & Fantasy,44.08352668213457
+Frank Ochieng,Special Interest,63.829787234042556
+Frank Ochieng,Sports & Fitness,71.42857142857143
+Frank Ochieng,Television,22.22222222222222
+Frank Ochieng,Western,56.52173913043478
+Frank Swietek,Action & Adventure,25.86656727543794
+Frank Swietek,Animation,45.00525762355415
+Frank Swietek,Art House & International,71.7357910906298
+Frank Swietek,Classics,58.730158730158735
+Frank Swietek,Comedy,26.541140056744904
+Frank Swietek,Cult Movies,25.0
+Frank Swietek,Documentary,57.71276595744681
+Frank Swietek,Drama,44.00826446280991
+Frank Swietek,Faith & Spirituality,21.428571428571427
+Frank Swietek,Gay & Lesbian,37.5
+Frank Swietek,Horror,14.522292993630574
+Frank Swietek,Kids & Family,34.47180301826847
+Frank Swietek,Musical & Performing Arts,35.60606060606061
+Frank Swietek,Mystery & Suspense,26.21035058430718
+Frank Swietek,Romance,53.04709141274239
+Frank Swietek,Science Fiction & Fantasy,26.907356948228884
+Frank Swietek,Special Interest,55.47945205479452
+Frank Swietek,Sports & Fitness,32.467532467532465
+Frank Swietek,Television,67.56756756756756
+Frank Swietek,Western,56.09756097560976
+Frederic and Mary Ann Brussat,Action & Adventure,63.92742796157951
+Frederic and Mary Ann Brussat,Animation,81.3807531380753
+Frederic and Mary Ann Brussat,Art House & International,95.65602836879432
+Frederic and Mary Ann Brussat,Classics,84.90566037735849
+Frederic and Mary Ann Brussat,Comedy,72.58713136729223
+Frederic and Mary Ann Brussat,Cult Movies,66.66666666666666
+Frederic and Mary Ann Brussat,Documentary,93.09309309309309
+Frederic and Mary Ann Brussat,Drama,86.66457483526828
+Frederic and Mary Ann Brussat,Faith & Spirituality,44.827586206896555
+Frederic and Mary Ann Brussat,Horror,50.0
+Frederic and Mary Ann Brussat,Kids & Family,79.50413223140495
+Frederic and Mary Ann Brussat,Musical & Performing Arts,77.77777777777779
+Frederic and Mary Ann Brussat,Mystery & Suspense,71.40468227424749
+Frederic and Mary Ann Brussat,Romance,86.11369990680335
+Frederic and Mary Ann Brussat,Science Fiction & Fantasy,75.26717557251908
+Frederic and Mary Ann Brussat,Special Interest,96.89922480620154
+Frederic and Mary Ann Brussat,Sports & Fitness,91.48936170212765
+Frederic and Mary Ann Brussat,Western,55.319148936170215
+Gary Thompson,Action & Adventure,55.16194331983806
+Gary Thompson,Animation,78.16901408450704
+Gary Thompson,Art House & International,72.81553398058253
+Gary Thompson,Classics,64.70588235294117
+Gary Thompson,Comedy,52.910512597741096
+Gary Thompson,Documentary,76.62337662337663
+Gary Thompson,Drama,61.27415891195419
+Gary Thompson,Horror,49.390243902439025
+Gary Thompson,Kids & Family,64.91228070175438
+Gary Thompson,Musical & Performing Arts,75.38461538461539
+Gary Thompson,Mystery & Suspense,55.484896661367245
+Gary Thompson,Romance,43.54838709677419
+Gary Thompson,Science Fiction & Fantasy,52.244165170556556
+Gary Thompson,Special Interest,76.92307692307693
+Gary Thompson,Sports & Fitness,62.06896551724138
+Gary Thompson,Television,33.33333333333333
+Gary Thompson,Western,51.724137931034484
+Gary Wolcott,Action & Adventure,62.09944751381216
+Gary Wolcott,Animation,70.54263565891473
+Gary Wolcott,Art House & International,38.46153846153847
+Gary Wolcott,Classics,50.0
+Gary Wolcott,Comedy,60.22346368715083
+Gary Wolcott,Cult Movies,66.66666666666666
+Gary Wolcott,Documentary,84.375
+Gary Wolcott,Drama,61.57253599114064
+Gary Wolcott,Horror,44.36619718309859
+Gary Wolcott,Kids & Family,65.81986143187068
+Gary Wolcott,Musical & Performing Arts,50.79365079365079
+Gary Wolcott,Mystery & Suspense,55.50000000000001
+Gary Wolcott,Romance,45.16129032258064
+Gary Wolcott,Science Fiction & Fantasy,59.85130111524164
+Gary Wolcott,Special Interest,70.58823529411765
+Gary Wolcott,Sports & Fitness,61.111111111111114
+Gary Wolcott,Western,84.0
+Geoffrey Macnab,Action & Adventure,60.40688575899843
+Geoffrey Macnab,Animation,73.7991266375546
+Geoffrey Macnab,Art House & International,82.42424242424242
+Geoffrey Macnab,Classics,76.66666666666667
+Geoffrey Macnab,Comedy,64.27378964941569
+Geoffrey Macnab,Documentary,97.05882352941177
+Geoffrey Macnab,Drama,75.0
+Geoffrey Macnab,Horror,66.08695652173913
+Geoffrey Macnab,Kids & Family,71.85929648241206
+Geoffrey Macnab,Musical & Performing Arts,92.64705882352942
+Geoffrey Macnab,Mystery & Suspense,65.65349544072949
+Geoffrey Macnab,Romance,71.9298245614035
+Geoffrey Macnab,Science Fiction & Fantasy,64.37125748502994
+Geoffrey Macnab,Special Interest,92.5
+Geoffrey Macnab,Western,72.0
+Harvey S. Karten,Action & Adventure,65.26492851135409
+Harvey S. Karten,Animation,76.86567164179104
+Harvey S. Karten,Art House & International,92.03606311044328
+Harvey S. Karten,Classics,82.14285714285714
+Harvey S. Karten,Comedy,61.0875106202209
+Harvey S. Karten,Documentary,92.85714285714286
+Harvey S. Karten,Drama,77.3854961832061
+Harvey S. Karten,Faith & Spirituality,54.54545454545454
+Harvey S. Karten,Horror,40.68767908309456
+Harvey S. Karten,Kids & Family,68.14404432132964
+Harvey S. Karten,Musical & Performing Arts,81.11888111888112
+Harvey S. Karten,Mystery & Suspense,66.75347222222221
+Harvey S. Karten,Romance,83.81742738589212
+Harvey S. Karten,Science Fiction & Fantasy,60.10733452593918
+Harvey S. Karten,Special Interest,87.04453441295547
+Harvey S. Karten,Sports & Fitness,84.78260869565217
+Harvey S. Karten,Television,74.07407407407408
+Harvey S. Karten,Western,83.92857142857143
+Jack Garner,Action & Adventure,71.23287671232876
+Jack Garner,Animation,94.85094850948511
+Jack Garner,Art House & International,91.07142857142857
+Jack Garner,Classics,76.31578947368422
+Jack Garner,Comedy,64.6655231560892
+Jack Garner,Cult Movies,37.5
+Jack Garner,Documentary,75.55555555555556
+Jack Garner,Drama,78.05243445692884
+Jack Garner,Faith & Spirituality,5.88235294117647
+Jack Garner,Horror,47.88732394366197
+Jack Garner,Kids & Family,80.87318087318087
+Jack Garner,Musical & Performing Arts,77.77777777777779
+Jack Garner,Mystery & Suspense,69.51456310679612
+Jack Garner,Romance,71.8562874251497
+Jack Garner,Science Fiction & Fantasy,65.929203539823
+Jack Garner,Special Interest,86.76470588235294
+Jack Garner,Sports & Fitness,91.66666666666666
+Jack Garner,Television,65.21739130434783
+Jack Garner,Western,55.55555555555556
+Jackie K. Cooper,Action & Adventure,44.81865284974093
+Jackie K. Cooper,Animation,49.175824175824175
+Jackie K. Cooper,Art House & International,52.38095238095239
+Jackie K. Cooper,Classics,46.666666666666664
+Jackie K. Cooper,Comedy,28.398384925975773
+Jackie K. Cooper,Documentary,54.285714285714285
+Jackie K. Cooper,Drama,53.014037985136255
+Jackie K. Cooper,Faith & Spirituality,92.3076923076923
+Jackie K. Cooper,Gay & Lesbian,66.66666666666666
+Jackie K. Cooper,Horror,19.776119402985074
+Jackie K. Cooper,Kids & Family,46.13899613899614
+Jackie K. Cooper,Musical & Performing Arts,61.76470588235294
+Jackie K. Cooper,Mystery & Suspense,41.69550173010381
+Jackie K. Cooper,Romance,44.57478005865102
+Jackie K. Cooper,Science Fiction & Fantasy,45.407279029462735
+Jackie K. Cooper,Special Interest,51.85185185185185
+Jackie K. Cooper,Sports & Fitness,67.85714285714286
+Jackie K. Cooper,Television,37.5
+Jackie K. Cooper,Western,61.76470588235294
+James Berardinelli,Action & Adventure,51.65332405151409
+James Berardinelli,Animation,74.39903846153845
+James Berardinelli,Art House & International,76.77824267782427
+James Berardinelli,Classics,68.95424836601308
+James Berardinelli,Comedy,48.90202702702703
+James Berardinelli,Cult Movies,88.23529411764706
+James Berardinelli,Documentary,78.98089171974523
+James Berardinelli,Drama,64.71127406049496
+James Berardinelli,Horror,33.10249307479224
+James Berardinelli,Kids & Family,60.51924798567592
+James Berardinelli,Musical & Performing Arts,62.22222222222222
+James Berardinelli,Mystery & Suspense,50.92091007583966
+James Berardinelli,Romance,53.75609756097561
+James Berardinelli,Science Fiction & Fantasy,51.93337299226651
+James Berardinelli,Special Interest,73.86363636363636
+James Berardinelli,Sports & Fitness,56.41025641025641
+James Berardinelli,Television,59.375
+James Berardinelli,Western,62.06896551724138
+James Kendrick,Action & Adventure,61.334156886967264
+James Kendrick,Animation,71.73100871731009
+James Kendrick,Art House & International,86.8
+James Kendrick,Classics,91.53225806451613
+James Kendrick,Comedy,59.59944751381215
+James Kendrick,Cult Movies,81.48148148148148
+James Kendrick,Documentary,82.53968253968253
+James Kendrick,Drama,68.83763003165988
+James Kendrick,Horror,59.2292089249493
+James Kendrick,Kids & Family,73.17073170731707
+James Kendrick,Musical & Performing Arts,69.58762886597938
+James Kendrick,Mystery & Suspense,64.82635796972396
+James Kendrick,Romance,65.78947368421053
+James Kendrick,Science Fiction & Fantasy,69.81585268214572
+James Kendrick,Special Interest,72.6027397260274
+James Kendrick,Television,87.5
+James Kendrick,Western,69.86301369863014
+James Rocchi,Action & Adventure,57.5518262586377
+James Rocchi,Animation,60.88328075709779
+James Rocchi,Art House & International,77.06422018348624
+James Rocchi,Classics,82.6923076923077
+James Rocchi,Comedy,65.18324607329843
+James Rocchi,Cult Movies,60.0
+James Rocchi,Documentary,68.0
+James Rocchi,Drama,70.80459770114943
+James Rocchi,Horror,55.50000000000001
+James Rocchi,Kids & Family,63.788300835654596
+James Rocchi,Musical & Performing Arts,56.84210526315789
+James Rocchi,Mystery & Suspense,65.50079491255963
+James Rocchi,Romance,68.80466472303208
+James Rocchi,Science Fiction & Fantasy,57.82945736434109
+James Rocchi,Special Interest,77.5
+James Rocchi,Sports & Fitness,96.55172413793103
+James Rocchi,Television,75.0
+James Rocchi,Western,73.52941176470588
+James Verniere,Action & Adventure,53.82381413359148
+James Verniere,Animation,76.89393939393939
+James Verniere,Art House & International,96.82539682539682
+James Verniere,Classics,91.42857142857143
+James Verniere,Comedy,65.12968299711815
+James Verniere,Cult Movies,50.0
+James Verniere,Documentary,86.61417322834646
+James Verniere,Drama,69.42469295410471
+James Verniere,Horror,35.741444866920155
+James Verniere,Kids & Family,74.49664429530202
+James Verniere,Musical & Performing Arts,50.0
+James Verniere,Mystery & Suspense,51.65876777251185
+James Verniere,Romance,58.333333333333336
+James Verniere,Science Fiction & Fantasy,48.534201954397396
+James Verniere,Special Interest,87.71929824561403
+James Verniere,Sports & Fitness,88.23529411764706
+James Verniere,Television,55.55555555555556
+James Verniere,Western,72.54901960784314
+Jeff Vice,Action & Adventure,42.476489028213166
+Jeff Vice,Animation,54.49330783938815
+Jeff Vice,Art House & International,77.42857142857143
+Jeff Vice,Classics,51.515151515151516
+Jeff Vice,Comedy,39.287585123101096
+Jeff Vice,Cult Movies,28.57142857142857
+Jeff Vice,Documentary,71.0204081632653
+Jeff Vice,Drama,57.10536182977128
+Jeff Vice,Faith & Spirituality,30.0
+Jeff Vice,Gay & Lesbian,40.0
+Jeff Vice,Horror,24.22145328719723
+Jeff Vice,Kids & Family,45.6578947368421
+Jeff Vice,Musical & Performing Arts,55.49132947976878
+Jeff Vice,Mystery & Suspense,34.96932515337423
+Jeff Vice,Romance,69.12181303116147
+Jeff Vice,Science Fiction & Fantasy,49.615975422427034
+Jeff Vice,Special Interest,75.49019607843137
+Jeff Vice,Sports & Fitness,64.81481481481481
+Jeff Vice,Television,78.26086956521739
+Jeff Vice,Western,58.333333333333336
+Jeffrey Chen,Action & Adventure,60.726846424384526
+Jeffrey Chen,Animation,65.625
+Jeffrey Chen,Art House & International,94.19924337957126
+Jeffrey Chen,Classics,85.71428571428571
+Jeffrey Chen,Comedy,64.94736842105263
+Jeffrey Chen,Documentary,93.95973154362416
+Jeffrey Chen,Drama,81.97101449275362
+Jeffrey Chen,Faith & Spirituality,50.0
+Jeffrey Chen,Horror,52.22929936305732
+Jeffrey Chen,Kids & Family,58.46153846153847
+Jeffrey Chen,Musical & Performing Arts,79.51807228915662
+Jeffrey Chen,Mystery & Suspense,65.66523605150213
+Jeffrey Chen,Romance,87.12753277711562
+Jeffrey Chen,Science Fiction & Fantasy,52.69461077844312
+Jeffrey Chen,Special Interest,96.52777777777779
+Jeffrey Chen,Sports & Fitness,89.47368421052632
+Jeffrey Chen,Television,92.85714285714286
+Jeffrey Chen,Western,64.70588235294117
+Jeffrey M. Anderson,Action & Adventure,61.500449236298294
+Jeffrey M. Anderson,Animation,72.37654320987654
+Jeffrey M. Anderson,Anime & Manga,66.66666666666666
+Jeffrey M. Anderson,Art House & International,86.76691729323308
+Jeffrey M. Anderson,Classics,92.99781181619255
+Jeffrey M. Anderson,Comedy,62.553689964857476
+Jeffrey M. Anderson,Documentary,76.71232876712328
+Jeffrey M. Anderson,Drama,72.83894449499545
+Jeffrey M. Anderson,Faith & Spirituality,28.57142857142857
+Jeffrey M. Anderson,Horror,65.29477196885428
+Jeffrey M. Anderson,Kids & Family,65.55555555555556
+Jeffrey M. Anderson,Musical & Performing Arts,67.75510204081633
+Jeffrey M. Anderson,Mystery & Suspense,67.95235394214407
+Jeffrey M. Anderson,Romance,76.2902019446522
+Jeffrey M. Anderson,Science Fiction & Fantasy,61.42649199417758
+Jeffrey M. Anderson,Special Interest,78.64077669902912
+Jeffrey M. Anderson,Sports & Fitness,98.0392156862745
+Jeffrey M. Anderson,Television,76.19047619047619
+Jeffrey M. Anderson,Western,74.43609022556392
+Jeffrey Westhoff,Action & Adventure,55.38461538461539
+Jeffrey Westhoff,Animation,79.07488986784142
+Jeffrey Westhoff,Art House & International,78.3132530120482
+Jeffrey Westhoff,Classics,84.78260869565217
+Jeffrey Westhoff,Comedy,57.112375533428164
+Jeffrey Westhoff,Cult Movies,50.0
+Jeffrey Westhoff,Documentary,44.11764705882353
+Jeffrey Westhoff,Drama,49.95918367346939
+Jeffrey Westhoff,Faith & Spirituality,55.55555555555556
+Jeffrey Westhoff,Horror,37.93103448275862
+Jeffrey Westhoff,Kids & Family,67.3015873015873
+Jeffrey Westhoff,Musical & Performing Arts,55.44554455445545
+Jeffrey Westhoff,Mystery & Suspense,44.57627118644068
+Jeffrey Westhoff,Romance,51.98863636363637
+Jeffrey Westhoff,Science Fiction & Fantasy,58.0246913580247
+Jeffrey Westhoff,Special Interest,54.54545454545454
+Jeffrey Westhoff,Sports & Fitness,77.27272727272727
+Jeffrey Westhoff,Western,96.29629629629629
+Jim Lane,Action & Adventure,49.45454545454545
+Jim Lane,Animation,46.53179190751445
+Jim Lane,Art House & International,67.44186046511628
+Jim Lane,Classics,88.88888888888889
+Jim Lane,Comedy,44.7584789311408
+Jim Lane,Documentary,70.83333333333334
+Jim Lane,Drama,62.72445820433437
+Jim Lane,Faith & Spirituality,33.33333333333333
+Jim Lane,Horror,21.153846153846153
+Jim Lane,Kids & Family,43.50961538461539
+Jim Lane,Musical & Performing Arts,57.8125
+Jim Lane,Mystery & Suspense,50.8695652173913
+Jim Lane,Romance,48.2837528604119
+Jim Lane,Science Fiction & Fantasy,57.76772247360482
+Jim Lane,Special Interest,70.1492537313433
+Jim Lane,Sports & Fitness,69.23076923076923
+Jim Lane,Television,50.0
+Jim Lane,Western,28.57142857142857
+Jim Schembri,Action & Adventure,76.84887459807074
+Jim Schembri,Animation,90.98591549295774
+Jim Schembri,Art House & International,75.0
+Jim Schembri,Classics,52.94117647058824
+Jim Schembri,Comedy,68.78048780487805
+Jim Schembri,Cult Movies,16.666666666666664
+Jim Schembri,Documentary,80.26315789473685
+Jim Schembri,Drama,80.57228915662651
+Jim Schembri,Horror,75.54347826086956
+Jim Schembri,Kids & Family,86.40226628895185
+Jim Schembri,Musical & Performing Arts,87.77777777777777
+Jim Schembri,Mystery & Suspense,75.91397849462366
+Jim Schembri,Romance,78.0701754385965
+Jim Schembri,Science Fiction & Fantasy,71.97346600331676
+Jim Schembri,Special Interest,80.7017543859649
+Jim Schembri,Western,62.96296296296296
+JoBlo,Action & Adventure,71.5158924205379
+JoBlo,Animation,83.27272727272728
+JoBlo,Art House & International,72.15189873417721
+JoBlo,Classics,69.23076923076923
+JoBlo,Comedy,64.14746543778801
+JoBlo,Cult Movies,71.42857142857143
+JoBlo,Documentary,54.83870967741935
+JoBlo,Drama,72.18344965104686
+JoBlo,Horror,59.12698412698413
+JoBlo,Kids & Family,80.60200668896321
+JoBlo,Musical & Performing Arts,66.66666666666666
+JoBlo,Mystery & Suspense,72.6003490401396
+JoBlo,Romance,67.84452296819788
+JoBlo,Science Fiction & Fantasy,70.64579256360078
+JoBlo,Special Interest,75.60975609756098
+JoBlo,Western,44.44444444444444
+John Beifuss,Action & Adventure,56.67265110712149
+John Beifuss,Animation,57.07692307692308
+John Beifuss,Art House & International,67.54617414248021
+John Beifuss,Classics,70.37037037037037
+John Beifuss,Comedy,52.76836158192091
+John Beifuss,Documentary,79.13043478260869
+John Beifuss,Drama,59.4812925170068
+John Beifuss,Faith & Spirituality,11.11111111111111
+John Beifuss,Horror,62.3574144486692
+John Beifuss,Kids & Family,50.51150895140665
+John Beifuss,Musical & Performing Arts,56.493506493506494
+John Beifuss,Mystery & Suspense,55.08072174738842
+John Beifuss,Romance,48.91566265060241
+John Beifuss,Science Fiction & Fantasy,57.26141078838174
+John Beifuss,Special Interest,72.41379310344827
+John Beifuss,Sports & Fitness,73.91304347826086
+John Beifuss,Television,61.111111111111114
+John Beifuss,Western,72.91666666666666
+John J. Puccio,Action & Adventure,49.31997136721546
+John J. Puccio,Animation,69.57026713124273
+John J. Puccio,Art House & International,77.90697674418605
+John J. Puccio,Classics,84.45078459343794
+John J. Puccio,Comedy,42.813455657492355
+John J. Puccio,Cult Movies,70.0
+John J. Puccio,Documentary,45.714285714285715
+John J. Puccio,Drama,61.7231638418079
+John J. Puccio,Horror,37.91208791208791
+John J. Puccio,Kids & Family,64.92985971943888
+John J. Puccio,Musical & Performing Arts,71.28205128205128
+John J. Puccio,Mystery & Suspense,54.498714652956295
+John J. Puccio,Romance,56.46067415730337
+John J. Puccio,Science Fiction & Fantasy,62.321598477640336
+John J. Puccio,Special Interest,54.54545454545454
+John J. Puccio,Sports & Fitness,71.42857142857143
+John J. Puccio,Television,55.55555555555556
+John J. Puccio,Western,69.51219512195121
+Josh Bell,Action & Adventure,37.71289537712895
+Josh Bell,Animation,42.14123006833713
+Josh Bell,Art House & International,49.00990099009901
+Josh Bell,Classics,72.0
+Josh Bell,Comedy,34.98583569405099
+Josh Bell,Documentary,48.64864864864865
+Josh Bell,Drama,41.415313225058
+Josh Bell,Horror,29.50191570881226
+Josh Bell,Kids & Family,37.35408560311284
+Josh Bell,Musical & Performing Arts,28.723404255319153
+Josh Bell,Mystery & Suspense,46.75118858954041
+Josh Bell,Romance,33.43195266272189
+Josh Bell,Science Fiction & Fantasy,40.78590785907859
+Josh Bell,Special Interest,51.35135135135135
+Josh Bell,Sports & Fitness,43.47826086956522
+Josh Bell,Television,57.14285714285714
+Josh Bell,Western,50.0
+Josh Larsen,Action & Adventure,58.808777429467085
+Josh Larsen,Animation,80.45685279187818
+Josh Larsen,Art House & International,93.0957683741648
+Josh Larsen,Classics,88.95899053627761
+Josh Larsen,Comedy,59.59709009513151
+Josh Larsen,Cult Movies,82.35294117647058
+Josh Larsen,Documentary,58.46153846153847
+Josh Larsen,Drama,71.30999639119452
+Josh Larsen,Faith & Spirituality,45.45454545454545
+Josh Larsen,Horror,50.13850415512465
+Josh Larsen,Kids & Family,72.2279792746114
+Josh Larsen,Musical & Performing Arts,80.56872037914692
+Josh Larsen,Mystery & Suspense,55.745164960182024
+Josh Larsen,Romance,82.11143695014663
+Josh Larsen,Science Fiction & Fantasy,68.21366024518389
+Josh Larsen,Special Interest,60.215053763440864
+Josh Larsen,Sports & Fitness,39.285714285714285
+Josh Larsen,Television,60.0
+Josh Larsen,Western,66.66666666666666
+Jules Brenner,Action & Adventure,73.55555555555556
+Jules Brenner,Animation,59.16230366492147
+Jules Brenner,Art House & International,69.62962962962963
+Jules Brenner,Classics,95.74468085106383
+Jules Brenner,Comedy,55.281207133058984
+Jules Brenner,Documentary,92.3076923076923
+Jules Brenner,Drama,69.5382494831151
+Jules Brenner,Faith & Spirituality,50.0
+Jules Brenner,Horror,61.702127659574465
+Jules Brenner,Kids & Family,54.9407114624506
+Jules Brenner,Musical & Performing Arts,75.29411764705883
+Jules Brenner,Mystery & Suspense,75.81168831168831
+Jules Brenner,Romance,61.83745583038869
+Jules Brenner,Science Fiction & Fantasy,72.67857142857143
+Jules Brenner,Special Interest,89.33333333333333
+Jules Brenner,Sports & Fitness,62.5
+Jules Brenner,Television,90.9090909090909
+Jules Brenner,Western,80.55555555555556
+Kam Williams,Action & Adventure,79.4475138121547
+Kam Williams,Animation,94.28571428571428
+Kam Williams,Art House & International,98.68421052631578
+Kam Williams,Classics,86.66666666666667
+Kam Williams,Comedy,58.0130529369108
+Kam Williams,Documentary,95.34883720930233
+Kam Williams,Drama,86.89619732785201
+Kam Williams,Horror,84.17266187050359
+Kam Williams,Kids & Family,87.44588744588745
+Kam Williams,Musical & Performing Arts,93.33333333333333
+Kam Williams,Mystery & Suspense,77.20739219712526
+Kam Williams,Romance,90.24691358024691
+Kam Williams,Science Fiction & Fantasy,83.13253012048193
+Kam Williams,Special Interest,97.57575757575758
+Kam Williams,Sports & Fitness,71.42857142857143
+Kam Williams,Television,78.94736842105263
+Kam Williams,Western,71.05263157894737
+Ken Hanke,Action & Adventure,59.46248600223964
+Ken Hanke,Animation,50.84388185654009
+Ken Hanke,Art House & International,97.57045675413022
+Ken Hanke,Classics,93.40175953079178
+Ken Hanke,Comedy,59.75885455915599
+Ken Hanke,Cult Movies,66.66666666666666
+Ken Hanke,Documentary,81.91489361702128
+Ken Hanke,Drama,78.55105533371363
+Ken Hanke,Faith & Spirituality,30.303030303030305
+Ken Hanke,Horror,54.493087557603694
+Ken Hanke,Kids & Family,48.10810810810811
+Ken Hanke,Musical & Performing Arts,73.65079365079366
+Ken Hanke,Mystery & Suspense,64.37956204379563
+Ken Hanke,Romance,79.53044754218635
+Ken Hanke,Science Fiction & Fantasy,61.111111111111114
+Ken Hanke,Special Interest,83.33333333333334
+Ken Hanke,Sports & Fitness,46.15384615384615
+Ken Hanke,Television,94.11764705882352
+Ken Hanke,Western,76.66666666666667
+Kenneth Turan,Action & Adventure,54.493580599144074
+Kenneth Turan,Animation,60.24096385542169
+Kenneth Turan,Art House & International,94.33962264150944
+Kenneth Turan,Classics,55.00000000000001
+Kenneth Turan,Comedy,63.112391930835734
+Kenneth Turan,Cult Movies,60.0
+Kenneth Turan,Documentary,91.30434782608695
+Kenneth Turan,Drama,66.39221556886228
+Kenneth Turan,Faith & Spirituality,84.61538461538461
+Kenneth Turan,Horror,41.333333333333336
+Kenneth Turan,Kids & Family,65.50522648083623
+Kenneth Turan,Musical & Performing Arts,80.72289156626506
+Kenneth Turan,Mystery & Suspense,55.46038543897216
+Kenneth Turan,Romance,60.71428571428571
+Kenneth Turan,Science Fiction & Fantasy,48.45070422535211
+Kenneth Turan,Special Interest,89.38053097345133
+Kenneth Turan,Sports & Fitness,93.10344827586206
+Kenneth Turan,Television,84.61538461538461
+Kenneth Turan,Western,46.42857142857143
+Kevin Carr,Action & Adventure,68.95761741122566
+Kevin Carr,Animation,83.65937859608745
+Kevin Carr,Art House & International,44.26229508196721
+Kevin Carr,Classics,82.94573643410853
+Kevin Carr,Comedy,58.244310264746865
+Kevin Carr,Cult Movies,61.904761904761905
+Kevin Carr,Documentary,72.0
+Kevin Carr,Drama,58.55054036872218
+Kevin Carr,Horror,59.00216919739696
+Kevin Carr,Kids & Family,77.81721384205856
+Kevin Carr,Musical & Performing Arts,80.11695906432749
+Kevin Carr,Mystery & Suspense,62.99559471365639
+Kevin Carr,Romance,51.36476426799007
+Kevin Carr,Science Fiction & Fantasy,73.93199651264167
+Kevin Carr,Special Interest,71.83098591549296
+Kevin Carr,Sports & Fitness,70.0
+Kevin Carr,Television,40.0
+Kevin Carr,Western,68.75
+Kyle Smith,Action & Adventure,29.3558606124604
+Kyle Smith,Animation,35.61253561253561
+Kyle Smith,Art House & International,40.18691588785047
+Kyle Smith,Classics,28.57142857142857
+Kyle Smith,Comedy,34.8323793949305
+Kyle Smith,Documentary,33.939393939393945
+Kyle Smith,Drama,34.83742534837425
+Kyle Smith,Faith & Spirituality,11.11111111111111
+Kyle Smith,Horror,29.343629343629345
+Kyle Smith,Kids & Family,35.585585585585584
+Kyle Smith,Musical & Performing Arts,34.11764705882353
+Kyle Smith,Mystery & Suspense,27.91068580542265
+Kyle Smith,Romance,38.63636363636363
+Kyle Smith,Science Fiction & Fantasy,30.495049504950494
+Kyle Smith,Special Interest,28.07017543859649
+Kyle Smith,Sports & Fitness,55.319148936170215
+Kyle Smith,Television,12.5
+Kyle Smith,Western,59.09090909090909
+Laura Clifford,Action & Adventure,58.721291123525766
+Laura Clifford,Animation,73.72262773722628
+Laura Clifford,Art House & International,92.93650793650794
+Laura Clifford,Classics,73.17073170731707
+Laura Clifford,Comedy,64.58489154824233
+Laura Clifford,Cult Movies,44.44444444444444
+Laura Clifford,Documentary,71.04477611940298
+Laura Clifford,Drama,75.49207873259721
+Laura Clifford,Faith & Spirituality,88.88888888888889
+Laura Clifford,Gay & Lesbian,60.0
+Laura Clifford,Horror,51.71102661596958
+Laura Clifford,Kids & Family,65.51282051282051
+Laura Clifford,Musical & Performing Arts,66.29834254143645
+Laura Clifford,Mystery & Suspense,59.6551724137931
+Laura Clifford,Romance,78.94295302013423
+Laura Clifford,Science Fiction & Fantasy,58.66807610993657
+Laura Clifford,Special Interest,71.57190635451505
+Laura Clifford,Sports & Fitness,69.6969696969697
+Laura Clifford,Television,88.23529411764706
+Laura Clifford,Western,66.66666666666666
+Lawrence Toppman,Action & Adventure,53.72168284789643
+Lawrence Toppman,Animation,72.01365187713311
+Lawrence Toppman,Art House & International,82.92682926829268
+Lawrence Toppman,Classics,59.375
+Lawrence Toppman,Comedy,56.084070796460175
+Lawrence Toppman,Documentary,76.36363636363637
+Lawrence Toppman,Drama,59.72994440031771
+Lawrence Toppman,Horror,45.38461538461539
+Lawrence Toppman,Kids & Family,59.743589743589745
+Lawrence Toppman,Musical & Performing Arts,58.730158730158735
+Lawrence Toppman,Mystery & Suspense,53.43347639484979
+Lawrence Toppman,Romance,52.613240418118465
+Lawrence Toppman,Science Fiction & Fantasy,54.14364640883977
+Lawrence Toppman,Special Interest,61.111111111111114
+Lawrence Toppman,Sports & Fitness,71.42857142857143
+Lawrence Toppman,Television,83.33333333333334
+Lawrence Toppman,Western,59.25925925925925
+Leigh Paatsch,Action & Adventure,61.66380789022299
+Leigh Paatsch,Animation,72.35494880546075
+Leigh Paatsch,Art House & International,80.3680981595092
+Leigh Paatsch,Classics,95.83333333333334
+Leigh Paatsch,Comedy,60.71726438698916
+Leigh Paatsch,Documentary,88.52459016393442
+Leigh Paatsch,Drama,73.39805825242719
+Leigh Paatsch,Horror,59.817351598173516
+Leigh Paatsch,Kids & Family,61.97183098591549
+Leigh Paatsch,Musical & Performing Arts,80.88235294117648
+Leigh Paatsch,Mystery & Suspense,69.80198019801979
+Leigh Paatsch,Romance,64.61538461538461
+Leigh Paatsch,Science Fiction & Fantasy,59.692307692307686
+Leigh Paatsch,Special Interest,82.85714285714286
+Leigh Paatsch,Sports & Fitness,68.42105263157895
+Leigh Paatsch,Western,31.57894736842105
+Liam Lacey,Action & Adventure,32.247191011235955
+Liam Lacey,Animation,40.92219020172911
+Liam Lacey,Art House & International,69.4980694980695
+Liam Lacey,Classics,50.0
+Liam Lacey,Comedy,36.90068493150685
+Liam Lacey,Cult Movies,40.0
+Liam Lacey,Documentary,65.26315789473685
+Liam Lacey,Drama,46.43644379132991
+Liam Lacey,Faith & Spirituality,80.0
+Liam Lacey,Horror,32.10526315789474
+Liam Lacey,Kids & Family,28.237791932059448
+Liam Lacey,Musical & Performing Arts,47.368421052631575
+Liam Lacey,Mystery & Suspense,33.587786259541986
+Liam Lacey,Romance,40.06849315068493
+Liam Lacey,Science Fiction & Fantasy,31.48558758314856
+Liam Lacey,Special Interest,55.0561797752809
+Liam Lacey,Sports & Fitness,66.66666666666666
+Liam Lacey,Television,25.0
+Liam Lacey,Western,37.5
+Linda Cook,Action & Adventure,59.02439024390244
+Linda Cook,Animation,78.561736770692
+Linda Cook,Art House & International,87.20930232558139
+Linda Cook,Classics,60.60606060606061
+Linda Cook,Comedy,48.00173761946134
+Linda Cook,Documentary,88.52459016393442
+Linda Cook,Drama,69.67294350842418
+Linda Cook,Faith & Spirituality,61.904761904761905
+Linda Cook,Horror,41.54175588865097
+Linda Cook,Kids & Family,67.83505154639175
+Linda Cook,Musical & Performing Arts,84.67153284671532
+Linda Cook,Mystery & Suspense,53.53319057815846
+Linda Cook,Romance,55.4639175257732
+Linda Cook,Science Fiction & Fantasy,60.079840319361274
+Linda Cook,Special Interest,97.75280898876404
+Linda Cook,Sports & Fitness,84.31372549019608
+Linda Cook,Television,75.0
+Linda Cook,Western,65.0
+Lisa Kennedy,Action & Adventure,66.37554585152839
+Lisa Kennedy,Animation,87.109375
+Lisa Kennedy,Art House & International,90.17341040462428
+Lisa Kennedy,Classics,63.63636363636363
+Lisa Kennedy,Comedy,68.93095768374164
+Lisa Kennedy,Documentary,92.70833333333334
+Lisa Kennedy,Drama,77.0
+Lisa Kennedy,Horror,64.17910447761194
+Lisa Kennedy,Kids & Family,76.878612716763
+Lisa Kennedy,Musical & Performing Arts,71.42857142857143
+Lisa Kennedy,Mystery & Suspense,70.63291139240506
+Lisa Kennedy,Romance,67.1875
+Lisa Kennedy,Science Fiction & Fantasy,70.79889807162535
+Lisa Kennedy,Special Interest,91.39784946236558
+Lisa Kennedy,Sports & Fitness,93.33333333333333
+Lisa Kennedy,Television,62.5
+Lisa Kennedy,Western,38.095238095238095
+Lisa Schwarzbaum,Action & Adventure,58.01242236024845
+Lisa Schwarzbaum,Animation,81.52866242038218
+Lisa Schwarzbaum,Art House & International,85.44152744630071
+Lisa Schwarzbaum,Classics,62.7906976744186
+Lisa Schwarzbaum,Comedy,66.28189550425273
+Lisa Schwarzbaum,Cult Movies,50.0
+Lisa Schwarzbaum,Documentary,96.875
+Lisa Schwarzbaum,Drama,68.49104859335038
+Lisa Schwarzbaum,Horror,53.503184713375795
+Lisa Schwarzbaum,Kids & Family,68.53146853146853
+Lisa Schwarzbaum,Musical & Performing Arts,61.1764705882353
+Lisa Schwarzbaum,Mystery & Suspense,58.39160839160839
+Lisa Schwarzbaum,Romance,46.666666666666664
+Lisa Schwarzbaum,Science Fiction & Fantasy,67.37967914438502
+Lisa Schwarzbaum,Special Interest,92.85714285714286
+Lisa Schwarzbaum,Sports & Fitness,69.23076923076923
+Lisa Schwarzbaum,Television,66.66666666666666
+Lisa Schwarzbaum,Western,41.66666666666667
+Liz Braun,Action & Adventure,61.186440677966104
+Liz Braun,Animation,61.25000000000001
+Liz Braun,Art House & International,87.73946360153256
+Liz Braun,Classics,83.33333333333334
+Liz Braun,Comedy,63.794871794871796
+Liz Braun,Documentary,95.83333333333334
+Liz Braun,Drama,70.86247086247086
+Liz Braun,Horror,61.452513966480446
+Liz Braun,Kids & Family,62.973760932944614
+Liz Braun,Musical & Performing Arts,84.93150684931507
+Liz Braun,Mystery & Suspense,61.25244618395303
+Liz Braun,Romance,68.64686468646865
+Liz Braun,Science Fiction & Fantasy,64.13373860182371
+Liz Braun,Special Interest,83.14606741573034
+Liz Braun,Sports & Fitness,93.33333333333333
+Liz Braun,Western,85.71428571428571
+Lou Lumenick,Action & Adventure,45.67901234567901
+Lou Lumenick,Animation,57.41935483870968
+Lou Lumenick,Art House & International,62.093862815884485
+Lou Lumenick,Classics,56.25
+Lou Lumenick,Comedy,35.35938253738543
+Lou Lumenick,Cult Movies,50.0
+Lou Lumenick,Documentary,64.33566433566433
+Lou Lumenick,Drama,47.85335262904004
+Lou Lumenick,Faith & Spirituality,7.6923076923076925
+Lou Lumenick,Gay & Lesbian,45.45454545454545
+Lou Lumenick,Horror,41.82692307692308
+Lou Lumenick,Kids & Family,46.440677966101696
+Lou Lumenick,Musical & Performing Arts,61.146496815286625
+Lou Lumenick,Mystery & Suspense,50.66079295154186
+Lou Lumenick,Romance,40.81196581196581
+Lou Lumenick,Science Fiction & Fantasy,46.32952691680261
+Lou Lumenick,Special Interest,65.51724137931035
+Lou Lumenick,Sports & Fitness,57.14285714285714
+Lou Lumenick,Television,52.17391304347826
+Lou Lumenick,Western,51.35135135135135
+Maitland McDonagh,Action & Adventure,40.97363083164301
+Maitland McDonagh,Animation,53.09278350515464
+Maitland McDonagh,Anime & Manga,33.33333333333333
+Maitland McDonagh,Art House & International,87.98133022170362
+Maitland McDonagh,Classics,69.23076923076923
+Maitland McDonagh,Comedy,37.828371278458846
+Maitland McDonagh,Documentary,76.06837606837607
+Maitland McDonagh,Drama,63.061323032351524
+Maitland McDonagh,Faith & Spirituality,4.761904761904762
+Maitland McDonagh,Horror,36.31578947368421
+Maitland McDonagh,Kids & Family,38.90577507598784
+Maitland McDonagh,Musical & Performing Arts,62.745098039215684
+Maitland McDonagh,Mystery & Suspense,47.19358533791523
+Maitland McDonagh,Romance,81.74123337363966
+Maitland McDonagh,Science Fiction & Fantasy,50.09596928982726
+Maitland McDonagh,Special Interest,79.7752808988764
+Maitland McDonagh,Sports & Fitness,85.71428571428571
+Maitland McDonagh,Television,72.22222222222221
+Maitland McDonagh,Western,35.294117647058826
+Marc Savlov,Action & Adventure,45.94594594594595
+Marc Savlov,Animation,54.41988950276243
+Marc Savlov,Anime & Manga,11.76470588235294
+Marc Savlov,Art House & International,79.7427652733119
+Marc Savlov,Classics,67.85714285714286
+Marc Savlov,Comedy,46.88473520249221
+Marc Savlov,Cult Movies,25.0
+Marc Savlov,Documentary,65.51724137931035
+Marc Savlov,Drama,55.59167750325098
+Marc Savlov,Faith & Spirituality,4.166666666666666
+Marc Savlov,Gay & Lesbian,66.66666666666666
+Marc Savlov,Horror,35.727109515260324
+Marc Savlov,Kids & Family,45.92274678111588
+Marc Savlov,Musical & Performing Arts,67.79661016949152
+Marc Savlov,Mystery & Suspense,48.39067702552719
+Marc Savlov,Romance,54.961832061068705
+Marc Savlov,Science Fiction & Fantasy,47.097480832420594
+Marc Savlov,Special Interest,80.89887640449437
+Marc Savlov,Sports & Fitness,51.85185185185185
+Marc Savlov,Television,35.0
+Marc Savlov,Western,41.66666666666667
+Marjorie Baumgarten,Action & Adventure,48.833333333333336
+Marjorie Baumgarten,Animation,49.473684210526315
+Marjorie Baumgarten,Art House & International,68.08510638297872
+Marjorie Baumgarten,Classics,92.5925925925926
+Marjorie Baumgarten,Comedy,41.36029411764706
+Marjorie Baumgarten,Cult Movies,25.0
+Marjorie Baumgarten,Documentary,82.6923076923077
+Marjorie Baumgarten,Drama,61.32381570408826
+Marjorie Baumgarten,Faith & Spirituality,33.33333333333333
+Marjorie Baumgarten,Horror,39.24050632911392
+Marjorie Baumgarten,Kids & Family,46.01990049751244
+Marjorie Baumgarten,Musical & Performing Arts,61.240310077519375
+Marjorie Baumgarten,Mystery & Suspense,49.375
+Marjorie Baumgarten,Romance,48.201438848920866
+Marjorie Baumgarten,Science Fiction & Fantasy,48.708487084870846
+Marjorie Baumgarten,Special Interest,84.97409326424871
+Marjorie Baumgarten,Sports & Fitness,59.09090909090909
+Marjorie Baumgarten,Television,90.47619047619048
+Marjorie Baumgarten,Western,57.446808510638306
+Mark Dujsik,Action & Adventure,32.52032520325203
+Mark Dujsik,Animation,50.70422535211267
+Mark Dujsik,Art House & International,19.041450777202073
+Mark Dujsik,Classics,62.06896551724138
+Mark Dujsik,Comedy,30.23255813953488
+Mark Dujsik,Cult Movies,80.0
+Mark Dujsik,Documentary,67.17171717171718
+Mark Dujsik,Drama,35.619540601747005
+Mark Dujsik,Horror,28.4
+Mark Dujsik,Kids & Family,45.16129032258064
+Mark Dujsik,Musical & Performing Arts,32.5
+Mark Dujsik,Mystery & Suspense,35.309734513274336
+Mark Dujsik,Romance,16.182572614107883
+Mark Dujsik,Science Fiction & Fantasy,35.75076608784474
+Mark Dujsik,Special Interest,68.66666666666667
+Mark Dujsik,Sports & Fitness,51.61290322580645
+Mark Dujsik,Television,44.44444444444444
+Mark Dujsik,Western,51.85185185185185
+Matt Brunson,Action & Adventure,49.5609756097561
+Matt Brunson,Animation,67.00715015321757
+Matt Brunson,Art House & International,78.85196374622356
+Matt Brunson,Classics,94.00749063670412
+Matt Brunson,Comedy,49.273700305810394
+Matt Brunson,Cult Movies,86.20689655172413
+Matt Brunson,Documentary,76.84210526315789
+Matt Brunson,Drama,64.19836956521739
+Matt Brunson,Faith & Spirituality,30.0
+Matt Brunson,Gay & Lesbian,50.0
+Matt Brunson,Horror,52.57731958762887
+Matt Brunson,Kids & Family,60.86956521739131
+Matt Brunson,Musical & Performing Arts,66.4259927797834
+Matt Brunson,Mystery & Suspense,58.12115891132572
+Matt Brunson,Romance,55.219780219780226
+Matt Brunson,Science Fiction & Fantasy,62.20258327668253
+Matt Brunson,Special Interest,83.89830508474576
+Matt Brunson,Sports & Fitness,78.125
+Matt Brunson,Television,25.0
+Matt Brunson,Western,57.47126436781609
+Matt Pais,Action & Adventure,36.28526645768025
+Matt Pais,Animation,43.96355353075171
+Matt Pais,Art House & International,87.27034120734908
+Matt Pais,Classics,15.789473684210526
+Matt Pais,Comedy,43.040804918949135
+Matt Pais,Documentary,72.09302325581395
+Matt Pais,Drama,56.235654169854634
+Matt Pais,Faith & Spirituality,50.0
+Matt Pais,Horror,29.746835443037973
+Matt Pais,Kids & Family,35.70190641247834
+Matt Pais,Musical & Performing Arts,47.01492537313433
+Matt Pais,Mystery & Suspense,39.653179190751445
+Matt Pais,Romance,71.01910828025477
+Matt Pais,Science Fiction & Fantasy,39.23512747875354
+Matt Pais,Special Interest,78.65168539325843
+Matt Pais,Sports & Fitness,40.35087719298245
+Matt Pais,Television,61.53846153846154
+Matt Pais,Western,44.18604651162791
+Matthew Lucas,Action & Adventure,71.58034528552457
+Matthew Lucas,Animation,86.34920634920636
+Matthew Lucas,Art House & International,94.93365500603136
+Matthew Lucas,Classics,88.28828828828829
+Matthew Lucas,Comedy,72.67175572519083
+Matthew Lucas,Cult Movies,50.0
+Matthew Lucas,Documentary,79.36507936507937
+Matthew Lucas,Drama,84.52115812917594
+Matthew Lucas,Faith & Spirituality,50.0
+Matthew Lucas,Horror,53.62318840579711
+Matthew Lucas,Kids & Family,79.37853107344633
+Matthew Lucas,Musical & Performing Arts,95.1219512195122
+Matthew Lucas,Mystery & Suspense,66.20370370370371
+Matthew Lucas,Romance,93.34239130434783
+Matthew Lucas,Science Fiction & Fantasy,66.5625
+Matthew Lucas,Special Interest,84.28571428571429
+Matthew Lucas,Sports & Fitness,70.0
+Matthew Lucas,Western,58.82352941176471
+Matthew Turner,Action & Adventure,75.86580086580086
+Matthew Turner,Animation,87.44710860366713
+Matthew Turner,Art House & International,95.48022598870057
+Matthew Turner,Classics,82.85714285714286
+Matthew Turner,Comedy,76.23239436619718
+Matthew Turner,Documentary,89.31297709923665
+Matthew Turner,Drama,82.23560406473467
+Matthew Turner,Horror,77.40916271721959
+Matthew Turner,Kids & Family,81.86936936936937
+Matthew Turner,Musical & Performing Arts,82.48175182481752
+Matthew Turner,Mystery & Suspense,75.45533391153512
+Matthew Turner,Romance,70.2054794520548
+Matthew Turner,Science Fiction & Fantasy,79.04946653734238
+Matthew Turner,Special Interest,93.57142857142857
+Matthew Turner,Sports & Fitness,80.43478260869566
+Matthew Turner,Television,90.9090909090909
+Matthew Turner,Western,84.7457627118644
+Michael Dequina,Action & Adventure,49.13294797687861
+Michael Dequina,Animation,72.76051188299817
+Michael Dequina,Art House & International,71.1297071129707
+Michael Dequina,Classics,82.75862068965517
+Michael Dequina,Comedy,45.00276090557703
+Michael Dequina,Cult Movies,46.15384615384615
+Michael Dequina,Documentary,62.96296296296296
+Michael Dequina,Drama,55.78786333503315
+Michael Dequina,Gay & Lesbian,66.66666666666666
+Michael Dequina,Horror,31.733333333333334
+Michael Dequina,Kids & Family,55.78330893118595
+Michael Dequina,Musical & Performing Arts,65.45454545454545
+Michael Dequina,Mystery & Suspense,47.25274725274725
+Michael Dequina,Romance,52.961672473867594
+Michael Dequina,Science Fiction & Fantasy,45.808019441069256
+Michael Dequina,Special Interest,71.7948717948718
+Michael Dequina,Sports & Fitness,52.38095238095239
+Michael Dequina,Television,45.45454545454545
+Michael Dequina,Western,61.53846153846154
+Michael Phillips,Action & Adventure,50.0
+Michael Phillips,Animation,47.74774774774775
+Michael Phillips,Art House & International,76.33136094674556
+Michael Phillips,Classics,69.6969696969697
+Michael Phillips,Comedy,49.26517571884984
+Michael Phillips,Documentary,79.75460122699386
+Michael Phillips,Drama,60.952380952380956
+Michael Phillips,Faith & Spirituality,16.666666666666664
+Michael Phillips,Horror,64.42687747035573
+Michael Phillips,Kids & Family,43.2937181663837
+Michael Phillips,Musical & Performing Arts,56.95364238410596
+Michael Phillips,Mystery & Suspense,53.825136612021865
+Michael Phillips,Romance,48.23232323232323
+Michael Phillips,Science Fiction & Fantasy,48.44804318488529
+Michael Phillips,Special Interest,75.78125
+Michael Phillips,Sports & Fitness,72.09302325581395
+Michael Phillips,Television,45.45454545454545
+Michael Phillips,Western,35.55555555555556
+Mick LaSalle,Action & Adventure,48.894842598794376
+Mick LaSalle,Animation,56.573705179282875
+Mick LaSalle,Art House & International,68.82217090069284
+Mick LaSalle,Classics,76.19047619047619
+Mick LaSalle,Comedy,54.85115766262404
+Mick LaSalle,Cult Movies,66.66666666666666
+Mick LaSalle,Documentary,78.76712328767124
+Mick LaSalle,Drama,61.07357357357357
+Mick LaSalle,Faith & Spirituality,12.5
+Mick LaSalle,Gay & Lesbian,75.0
+Mick LaSalle,Horror,41.964285714285715
+Mick LaSalle,Kids & Family,57.01754385964912
+Mick LaSalle,Musical & Performing Arts,62.06896551724138
+Mick LaSalle,Mystery & Suspense,57.01311806256307
+Mick LaSalle,Romance,50.17301038062284
+Mick LaSalle,Science Fiction & Fantasy,42.984693877551024
+Mick LaSalle,Special Interest,67.62589928057554
+Mick LaSalle,Sports & Fitness,86.36363636363636
+Mick LaSalle,Western,51.06382978723404
+Mike McGranaghan,Action & Adventure,57.06084959816303
+Mike McGranaghan,Animation,90.09345794392523
+Mike McGranaghan,Art House & International,81.98198198198197
+Mike McGranaghan,Classics,68.42105263157895
+Mike McGranaghan,Comedy,58.581752484191504
+Mike McGranaghan,Cult Movies,80.0
+Mike McGranaghan,Documentary,74.44444444444444
+Mike McGranaghan,Drama,67.78131634819533
+Mike McGranaghan,Faith & Spirituality,66.66666666666666
+Mike McGranaghan,Horror,51.553930530164536
+Mike McGranaghan,Kids & Family,71.77541729893778
+Mike McGranaghan,Musical & Performing Arts,75.72815533980582
+Mike McGranaghan,Mystery & Suspense,56.25
+Mike McGranaghan,Romance,61.18721461187214
+Mike McGranaghan,Science Fiction & Fantasy,63.421828908554566
+Mike McGranaghan,Special Interest,87.6923076923077
+Mike McGranaghan,Sports & Fitness,42.30769230769231
+Mike McGranaghan,Television,25.0
+Mike McGranaghan,Western,73.33333333333333
+Moira MacDonald,Action & Adventure,61.94690265486725
+Moira MacDonald,Animation,85.51724137931035
+Moira MacDonald,Art House & International,88.12664907651715
+Moira MacDonald,Classics,83.33333333333334
+Moira MacDonald,Comedy,64.28192898781134
+Moira MacDonald,Documentary,90.53497942386831
+Moira MacDonald,Drama,74.02234636871509
+Moira MacDonald,Faith & Spirituality,62.5
+Moira MacDonald,Gay & Lesbian,50.0
+Moira MacDonald,Horror,49.65034965034965
+Moira MacDonald,Kids & Family,77.61557177615572
+Moira MacDonald,Musical & Performing Arts,82.5
+Moira MacDonald,Mystery & Suspense,61.03151862464183
+Moira MacDonald,Romance,57.27109515260324
+Moira MacDonald,Science Fiction & Fantasy,64.16309012875536
+Moira MacDonald,Special Interest,87.17948717948718
+Moira MacDonald,Sports & Fitness,70.58823529411765
+Moira MacDonald,Television,60.0
+Moira MacDonald,Western,43.75
+Nell Minow,Action & Adventure,69.62406015037594
+Nell Minow,Animation,81.84713375796179
+Nell Minow,Art House & International,89.6103896103896
+Nell Minow,Classics,97.92147806004618
+Nell Minow,Comedy,68.10506566604127
+Nell Minow,Documentary,91.07142857142857
+Nell Minow,Drama,78.84852216748769
+Nell Minow,Horror,43.07116104868914
+Nell Minow,Kids & Family,80.55420515313564
+Nell Minow,Musical & Performing Arts,85.95988538681948
+Nell Minow,Mystery & Suspense,63.735343383584585
+Nell Minow,Romance,71.41304347826087
+Nell Minow,Science Fiction & Fantasy,77.30027548209367
+Nell Minow,Special Interest,89.93288590604027
+Nell Minow,Sports & Fitness,78.94736842105263
+Nell Minow,Television,33.33333333333333
+Nell Minow,Western,61.81818181818181
+Nick Rogers,Action & Adventure,60.70287539936102
+Nick Rogers,Animation,81.54506437768241
+Nick Rogers,Art House & International,96.47058823529412
+Nick Rogers,Classics,41.509433962264154
+Nick Rogers,Comedy,50.43103448275862
+Nick Rogers,Documentary,43.58974358974359
+Nick Rogers,Drama,68.99521531100478
+Nick Rogers,Faith & Spirituality,5.555555555555555
+Nick Rogers,Horror,57.14285714285714
+Nick Rogers,Kids & Family,63.38461538461539
+Nick Rogers,Musical & Performing Arts,76.78571428571429
+Nick Rogers,Mystery & Suspense,70.3225806451613
+Nick Rogers,Romance,61.92893401015228
+Nick Rogers,Science Fiction & Fantasy,61.12224448897795
+Nick Rogers,Special Interest,91.30434782608695
+Nick Rogers,Sports & Fitness,35.0
+Nick Rogers,Television,25.0
+Nick Rogers,Western,69.23076923076923
+Nick Schager,Action & Adventure,25.844594594594593
+Nick Schager,Animation,38.48684210526316
+Nick Schager,Art House & International,22.676200204290094
+Nick Schager,Classics,70.0
+Nick Schager,Comedy,29.218106995884774
+Nick Schager,Cult Movies,33.33333333333333
+Nick Schager,Documentary,62.82722513089005
+Nick Schager,Drama,26.322418136020154
+Nick Schager,Faith & Spirituality,5.263157894736842
+Nick Schager,Horror,30.495049504950494
+Nick Schager,Kids & Family,23.167848699763592
+Nick Schager,Musical & Performing Arts,45.91836734693878
+Nick Schager,Mystery & Suspense,31.83673469387755
+Nick Schager,Romance,9.69626168224299
+Nick Schager,Science Fiction & Fantasy,27.36
+Nick Schager,Special Interest,70.94017094017094
+Nick Schager,Sports & Fitness,35.294117647058826
+Nick Schager,Television,57.692307692307686
+Nick Schager,Western,52.5
+Nigel Andrews,Action & Adventure,53.47003154574133
+Nigel Andrews,Animation,77.55905511811024
+Nigel Andrews,Art House & International,70.98765432098766
+Nigel Andrews,Classics,82.35294117647058
+Nigel Andrews,Comedy,54.503105590062106
+Nigel Andrews,Documentary,91.17647058823529
+Nigel Andrews,Drama,60.65442936951316
+Nigel Andrews,Horror,56.557377049180324
+Nigel Andrews,Kids & Family,64.93506493506493
+Nigel Andrews,Musical & Performing Arts,66.66666666666666
+Nigel Andrews,Mystery & Suspense,53.98936170212766
+Nigel Andrews,Romance,35.714285714285715
+Nigel Andrews,Science Fiction & Fantasy,52.98507462686567
+Nigel Andrews,Special Interest,80.0
+Nigel Andrews,Sports & Fitness,88.46153846153845
+Nigel Andrews,Western,34.78260869565217
+Owen Gleiberman,Action & Adventure,51.84590690208668
+Owen Gleiberman,Animation,61.756373937677054
+Owen Gleiberman,Art House & International,84.33179723502305
+Owen Gleiberman,Classics,81.25
+Owen Gleiberman,Comedy,59.0882178804026
+Owen Gleiberman,Cult Movies,14.285714285714285
+Owen Gleiberman,Documentary,67.38351254480287
+Owen Gleiberman,Drama,70.38777908343125
+Owen Gleiberman,Faith & Spirituality,19.35483870967742
+Owen Gleiberman,Horror,47.107438016528924
+Owen Gleiberman,Kids & Family,60.87786259541985
+Owen Gleiberman,Musical & Performing Arts,67.77777777777779
+Owen Gleiberman,Mystery & Suspense,54.4456641053787
+Owen Gleiberman,Romance,82.47950819672131
+Owen Gleiberman,Science Fiction & Fantasy,49.80184940554822
+Owen Gleiberman,Special Interest,61.00917431192661
+Owen Gleiberman,Sports & Fitness,85.36585365853658
+Owen Gleiberman,Television,90.9090909090909
+Owen Gleiberman,Western,34.090909090909086
+Pablo Villaça,Action & Adventure,60.71895424836601
+Pablo Villaça,Animation,81.37082601054482
+Pablo Villaça,Art House & International,83.85269121813032
+Pablo Villaça,Classics,85.71428571428571
+Pablo Villaça,Comedy,66.40045636052481
+Pablo Villaça,Cult Movies,79.16666666666666
+Pablo Villaça,Documentary,72.51908396946564
+Pablo Villaça,Drama,74.26440116038127
+Pablo Villaça,Faith & Spirituality,20.0
+Pablo Villaça,Horror,47.05882352941176
+Pablo Villaça,Kids & Family,66.66666666666666
+Pablo Villaça,Musical & Performing Arts,72.97297297297297
+Pablo Villaça,Mystery & Suspense,65.3409090909091
+Pablo Villaça,Romance,61.050328227571114
+Pablo Villaça,Science Fiction & Fantasy,63.23529411764706
+Pablo Villaça,Special Interest,87.59124087591242
+Pablo Villaça,Sports & Fitness,55.00000000000001
+Pablo Villaça,Television,85.71428571428571
+Pablo Villaça,Western,58.333333333333336
+Pete Hammond,Action & Adventure,81.23486682808718
+Pete Hammond,Animation,77.5623268698061
+Pete Hammond,Art House & International,97.87234042553192
+Pete Hammond,Comedy,78.81422924901186
+Pete Hammond,Documentary,80.3921568627451
+Pete Hammond,Drama,90.1296111665005
+Pete Hammond,Faith & Spirituality,9.090909090909092
+Pete Hammond,Horror,60.68376068376068
+Pete Hammond,Kids & Family,78.72807017543859
+Pete Hammond,Musical & Performing Arts,83.54430379746836
+Pete Hammond,Mystery & Suspense,76.71232876712328
+Pete Hammond,Romance,94.0
+Pete Hammond,Science Fiction & Fantasy,79.86577181208054
+Pete Hammond,Special Interest,73.91304347826086
+Pete Hammond,Western,87.5
+Peter Bradshaw,Action & Adventure,53.04878048780488
+Peter Bradshaw,Animation,60.43307086614173
+Peter Bradshaw,Art House & International,74.5125348189415
+Peter Bradshaw,Classics,95.22058823529412
+Peter Bradshaw,Comedy,45.309381237524946
+Peter Bradshaw,Cult Movies,94.44444444444444
+Peter Bradshaw,Documentary,86.40776699029125
+Peter Bradshaw,Drama,63.931623931623925
+Peter Bradshaw,Horror,63.11300639658849
+Peter Bradshaw,Kids & Family,53.51170568561873
+Peter Bradshaw,Musical & Performing Arts,71.69811320754717
+Peter Bradshaw,Mystery & Suspense,59.60324616771867
+Peter Bradshaw,Romance,51.85185185185185
+Peter Bradshaw,Science Fiction & Fantasy,58.66050808314087
+Peter Bradshaw,Special Interest,71.83908045977012
+Peter Bradshaw,Sports & Fitness,75.0
+Peter Bradshaw,Television,81.25
+Peter Bradshaw,Western,76.27118644067797
+Peter Canavese,Action & Adventure,57.936507936507944
+Peter Canavese,Animation,79.8708288482239
+Peter Canavese,Art House & International,91.75027870680044
+Peter Canavese,Classics,96.92737430167597
+Peter Canavese,Comedy,49.22779922779923
+Peter Canavese,Cult Movies,72.22222222222221
+Peter Canavese,Documentary,75.89285714285714
+Peter Canavese,Drama,64.90641711229947
+Peter Canavese,Horror,47.540983606557376
+Peter Canavese,Kids & Family,74.15525114155251
+Peter Canavese,Musical & Performing Arts,84.38661710037175
+Peter Canavese,Mystery & Suspense,60.78431372549019
+Peter Canavese,Romance,79.55911823647295
+Peter Canavese,Science Fiction & Fantasy,71.50259067357513
+Peter Canavese,Special Interest,72.72727272727273
+Peter Canavese,Sports & Fitness,51.78571428571429
+Peter Canavese,Television,36.84210526315789
+Peter Canavese,Western,78.94736842105263
+Peter Howell,Action & Adventure,57.90297339593115
+Peter Howell,Animation,60.24691358024692
+Peter Howell,Art House & International,86.01190476190477
+Peter Howell,Classics,87.5
+Peter Howell,Comedy,41.67979002624672
+Peter Howell,Documentary,83.78378378378379
+Peter Howell,Drama,60.56579511358765
+Peter Howell,Faith & Spirituality,10.526315789473683
+Peter Howell,Horror,40.27303754266212
+Peter Howell,Kids & Family,59.353348729792145
+Peter Howell,Musical & Performing Arts,69.52380952380952
+Peter Howell,Mystery & Suspense,62.219286657859975
+Peter Howell,Romance,59.7911227154047
+Peter Howell,Science Fiction & Fantasy,60.31518624641834
+Peter Howell,Special Interest,89.32038834951457
+Peter Howell,Sports & Fitness,80.0
+Peter Howell,Television,54.54545454545454
+Peter Howell,Western,68.62745098039215
+Peter Rainer,Action & Adventure,57.34430082256169
+Peter Rainer,Animation,76.51515151515152
+Peter Rainer,Art House & International,92.32480533926585
+Peter Rainer,Classics,35.714285714285715
+Peter Rainer,Comedy,58.41860465116279
+Peter Rainer,Documentary,95.74468085106383
+Peter Rainer,Drama,73.62956810631229
+Peter Rainer,Faith & Spirituality,50.0
+Peter Rainer,Horror,57.49999999999999
+Peter Rainer,Kids & Family,67.08860759493672
+Peter Rainer,Musical & Performing Arts,65.93406593406593
+Peter Rainer,Mystery & Suspense,61.66982922201139
+Peter Rainer,Romance,82.47298919567827
+Peter Rainer,Science Fiction & Fantasy,56.22641509433962
+Peter Rainer,Special Interest,97.31182795698925
+Peter Rainer,Sports & Fitness,55.26315789473685
+Peter Rainer,Television,70.0
+Peter Rainer,Western,75.60975609756098
+Peter Sobczynski,Action & Adventure,38.895558223289314
+Peter Sobczynski,Animation,58.07692307692308
+Peter Sobczynski,Art House & International,91.38686131386862
+Peter Sobczynski,Classics,85.71428571428571
+Peter Sobczynski,Comedy,21.914734480179508
+Peter Sobczynski,Documentary,42.1875
+Peter Sobczynski,Drama,52.61472785485593
+Peter Sobczynski,Horror,24.573378839590443
+Peter Sobczynski,Kids & Family,41.265060240963855
+Peter Sobczynski,Musical & Performing Arts,52.94117647058824
+Peter Sobczynski,Mystery & Suspense,39.44444444444444
+Peter Sobczynski,Romance,79.42332896461338
+Peter Sobczynski,Science Fiction & Fantasy,38.036809815950924
+Peter Sobczynski,Special Interest,41.86046511627907
+Peter Sobczynski,Sports & Fitness,50.0
+Peter Sobczynski,Television,66.66666666666666
+Peter Sobczynski,Western,51.515151515151516
+Peter Travers,Action & Adventure,55.15635395874917
+Peter Travers,Animation,80.10471204188482
+Peter Travers,Art House & International,87.67605633802818
+Peter Travers,Classics,70.45454545454545
+Peter Travers,Comedy,58.38293650793651
+Peter Travers,Documentary,92.56756756756756
+Peter Travers,Drama,69.57894736842105
+Peter Travers,Horror,55.871886120996436
+Peter Travers,Kids & Family,68.54460093896714
+Peter Travers,Musical & Performing Arts,77.27272727272727
+Peter Travers,Mystery & Suspense,60.44568245125348
+Peter Travers,Romance,52.98245614035088
+Peter Travers,Science Fiction & Fantasy,56.63615560640732
+Peter Travers,Special Interest,91.45299145299145
+Peter Travers,Sports & Fitness,73.52941176470588
+Peter Travers,Television,87.5
+Peter Travers,Western,69.0909090909091
+Phil Villarreal,Action & Adventure,56.02782071097373
+Phil Villarreal,Animation,61.98979591836735
+Phil Villarreal,Art House & International,76.8729641693811
+Phil Villarreal,Classics,87.02290076335878
+Phil Villarreal,Comedy,53.018529587567244
+Phil Villarreal,Documentary,64.90066225165563
+Phil Villarreal,Drama,67.02399183256765
+Phil Villarreal,Faith & Spirituality,85.71428571428571
+Phil Villarreal,Horror,43.89312977099237
+Phil Villarreal,Kids & Family,58.91181988742964
+Phil Villarreal,Musical & Performing Arts,62.80487804878049
+Phil Villarreal,Mystery & Suspense,61.25000000000001
+Phil Villarreal,Romance,59.91379310344828
+Phil Villarreal,Science Fiction & Fantasy,64.38152011922503
+Phil Villarreal,Special Interest,73.23943661971832
+Phil Villarreal,Sports & Fitness,69.44444444444444
+Phil Villarreal,Television,41.66666666666667
+Phil Villarreal,Western,60.526315789473685
+Philip Martin,Action & Adventure,61.78010471204188
+Philip Martin,Animation,97.36842105263158
+Philip Martin,Art House & International,83.65384615384616
+Philip Martin,Classics,93.93939393939394
+Philip Martin,Comedy,46.37062339880444
+Philip Martin,Cult Movies,60.0
+Philip Martin,Documentary,80.49792531120332
+Philip Martin,Drama,63.5
+Philip Martin,Faith & Spirituality,33.33333333333333
+Philip Martin,Horror,49.152542372881356
+Philip Martin,Kids & Family,83.46456692913385
+Philip Martin,Musical & Performing Arts,77.77777777777779
+Philip Martin,Mystery & Suspense,64.81113320079523
+Philip Martin,Romance,57.333333333333336
+Philip Martin,Science Fiction & Fantasy,65.58265582655827
+Philip Martin,Special Interest,87.1559633027523
+Philip Martin,Sports & Fitness,51.35135135135135
+Philip Martin,Television,77.77777777777779
+Philip Martin,Western,85.71428571428571
+Rafer Guzman,Action & Adventure,55.60588901472253
+Rafer Guzman,Animation,72.34726688102894
+Rafer Guzman,Art House & International,75.71428571428571
+Rafer Guzman,Classics,61.111111111111114
+Rafer Guzman,Comedy,41.895482728077944
+Rafer Guzman,Documentary,49.152542372881356
+Rafer Guzman,Drama,44.770504138449965
+Rafer Guzman,Horror,56.61764705882353
+Rafer Guzman,Kids & Family,65.03067484662577
+Rafer Guzman,Musical & Performing Arts,40.0
+Rafer Guzman,Mystery & Suspense,54.8051948051948
+Rafer Guzman,Romance,48.05194805194805
+Rafer Guzman,Science Fiction & Fantasy,55.12820512820513
+Rafer Guzman,Special Interest,50.0
+Rafer Guzman,Sports & Fitness,63.63636363636363
+Rafer Guzman,Western,45.45454545454545
+Rene Rodriguez,Action & Adventure,55.26613816534541
+Rene Rodriguez,Animation,68.09338521400778
+Rene Rodriguez,Art House & International,93.54430379746836
+Rene Rodriguez,Classics,67.64705882352942
+Rene Rodriguez,Comedy,41.6731821735731
+Rene Rodriguez,Cult Movies,62.5
+Rene Rodriguez,Documentary,86.29441624365482
+Rene Rodriguez,Drama,63.28059950041632
+Rene Rodriguez,Gay & Lesbian,60.0
+Rene Rodriguez,Horror,69.56521739130434
+Rene Rodriguez,Kids & Family,65.85365853658537
+Rene Rodriguez,Musical & Performing Arts,57.692307692307686
+Rene Rodriguez,Mystery & Suspense,58.026315789473685
+Rene Rodriguez,Romance,84.52088452088452
+Rene Rodriguez,Science Fiction & Fantasy,51.515151515151516
+Rene Rodriguez,Special Interest,88.0
+Rene Rodriguez,Sports & Fitness,80.0
+Rene Rodriguez,Television,90.9090909090909
+Rene Rodriguez,Western,40.0
+Rich Cline,Action & Adventure,72.86031042128603
+Rich Cline,Animation,85.29411764705883
+Rich Cline,Art House & International,95.24207011686143
+Rich Cline,Classics,87.1559633027523
+Rich Cline,Comedy,73.4375
+Rich Cline,Cult Movies,85.71428571428571
+Rich Cline,Documentary,92.05607476635514
+Rich Cline,Drama,85.39122568973315
+Rich Cline,Horror,66.06557377049181
+Rich Cline,Kids & Family,82.70270270270271
+Rich Cline,Musical & Performing Arts,85.8085808580858
+Rich Cline,Mystery & Suspense,75.36813922356092
+Rich Cline,Romance,83.77742946708464
+Rich Cline,Science Fiction & Fantasy,76.3233190271817
+Rich Cline,Special Interest,91.2568306010929
+Rich Cline,Sports & Fitness,86.3013698630137
+Rich Cline,Television,55.88235294117647
+Rich Cline,Western,92.53731343283582
+Richard Propes,Action & Adventure,51.49006622516556
+Richard Propes,Animation,63.73390557939914
+Richard Propes,Art House & International,90.65934065934066
+Richard Propes,Classics,84.21052631578947
+Richard Propes,Comedy,54.31499460625674
+Richard Propes,Cult Movies,87.5
+Richard Propes,Documentary,76.36363636363637
+Richard Propes,Drama,72.24264705882352
+Richard Propes,Faith & Spirituality,57.14285714285714
+Richard Propes,Horror,34.959349593495936
+Richard Propes,Kids & Family,59.84
+Richard Propes,Musical & Performing Arts,70.67669172932331
+Richard Propes,Mystery & Suspense,52.14521452145215
+Richard Propes,Romance,57.68194070080862
+Richard Propes,Science Fiction & Fantasy,51.698670605612996
+Richard Propes,Special Interest,75.30864197530865
+Richard Propes,Sports & Fitness,86.66666666666667
+Richard Propes,Television,61.53846153846154
+Richard Propes,Western,58.06451612903226
+Richard Roeper,Action & Adventure,62.04188481675392
+Richard Roeper,Animation,75.38461538461539
+Richard Roeper,Art House & International,78.125
+Richard Roeper,Comedy,57.22135007849294
+Richard Roeper,Documentary,83.33333333333334
+Richard Roeper,Drama,77.28181212524984
+Richard Roeper,Horror,62.65060240963856
+Richard Roeper,Kids & Family,75.0
+Richard Roeper,Musical & Performing Arts,66.66666666666666
+Richard Roeper,Mystery & Suspense,68.23266219239373
+Richard Roeper,Romance,48.35164835164835
+Richard Roeper,Science Fiction & Fantasy,62.227074235807855
+Richard Roeper,Special Interest,76.47058823529412
+Richard Roeper,Sports & Fitness,88.23529411764706
+Richard Roeper,Western,83.33333333333334
+Rick Groen,Action & Adventure,31.802721088435376
+Rick Groen,Animation,30.215827338129497
+Rick Groen,Art House & International,17.146776406035666
+Rick Groen,Classics,40.0
+Rick Groen,Comedy,31.29943502824859
+Rick Groen,Cult Movies,50.0
+Rick Groen,Documentary,76.99115044247787
+Rick Groen,Drama,32.07756232686981
+Rick Groen,Faith & Spirituality,95.23809523809523
+Rick Groen,Horror,24.347826086956523
+Rick Groen,Kids & Family,32.850241545893724
+Rick Groen,Musical & Performing Arts,57.14285714285714
+Rick Groen,Mystery & Suspense,31.380753138075313
+Rick Groen,Romance,15.570934256055363
+Rick Groen,Science Fiction & Fantasy,42.19178082191781
+Rick Groen,Special Interest,76.82926829268293
+Rick Groen,Sports & Fitness,31.57894736842105
+Rick Groen,Television,38.46153846153847
+Rick Groen,Western,25.0
+Rob Blackwelder,Action & Adventure,43.15673289183223
+Rob Blackwelder,Animation,47.151898734177216
+Rob Blackwelder,Art House & International,74.71910112359551
+Rob Blackwelder,Classics,64.70588235294117
+Rob Blackwelder,Comedy,50.658857979502194
+Rob Blackwelder,Cult Movies,55.55555555555556
+Rob Blackwelder,Documentary,68.88888888888889
+Rob Blackwelder,Drama,59.61106955871354
+Rob Blackwelder,Horror,21.777777777777775
+Rob Blackwelder,Kids & Family,50.71283095723014
+Rob Blackwelder,Musical & Performing Arts,63.013698630136986
+Rob Blackwelder,Mystery & Suspense,44.605475040257645
+Rob Blackwelder,Romance,59.43152454780362
+Rob Blackwelder,Science Fiction & Fantasy,50.75187969924813
+Rob Blackwelder,Special Interest,67.64705882352942
+Rob Blackwelder,Television,4.545454545454546
+Rob Blackwelder,Western,32.0
+Rob Gonsalves,Action & Adventure,65.48837209302324
+Rob Gonsalves,Animation,63.30275229357798
+Rob Gonsalves,Art House & International,90.51094890510949
+Rob Gonsalves,Classics,78.4090909090909
+Rob Gonsalves,Comedy,75.58962264150944
+Rob Gonsalves,Documentary,81.08108108108108
+Rob Gonsalves,Drama,67.53434562545192
+Rob Gonsalves,Horror,54.5286506469501
+Rob Gonsalves,Kids & Family,51.515151515151516
+Rob Gonsalves,Musical & Performing Arts,51.92307692307693
+Rob Gonsalves,Mystery & Suspense,60.72727272727273
+Rob Gonsalves,Romance,67.53246753246754
+Rob Gonsalves,Science Fiction & Fantasy,68.05555555555556
+Rob Gonsalves,Special Interest,96.61016949152543
+Rob Gonsalves,Television,92.85714285714286
+Rob Gonsalves,Western,58.82352941176471
+Rob Thomas,Action & Adventure,75.5980861244019
+Rob Thomas,Animation,86.63366336633663
+Rob Thomas,Art House & International,84.98789346246973
+Rob Thomas,Classics,95.23809523809523
+Rob Thomas,Comedy,71.78329571106094
+Rob Thomas,Cult Movies,87.5
+Rob Thomas,Documentary,81.31868131868131
+Rob Thomas,Drama,79.5374912403644
+Rob Thomas,Faith & Spirituality,5.88235294117647
+Rob Thomas,Horror,65.88235294117646
+Rob Thomas,Kids & Family,84.57142857142857
+Rob Thomas,Musical & Performing Arts,82.82828282828282
+Rob Thomas,Mystery & Suspense,77.57255936675462
+Rob Thomas,Romance,71.54471544715447
+Rob Thomas,Science Fiction & Fantasy,67.3469387755102
+Rob Thomas,Special Interest,87.28813559322035
+Rob Thomas,Sports & Fitness,75.0
+Rob Thomas,Western,85.36585365853658
+Rob Vaux,Action & Adventure,59.82092893116956
+Rob Vaux,Animation,75.55205047318611
+Rob Vaux,Art House & International,96.34703196347031
+Rob Vaux,Classics,91.48936170212765
+Rob Vaux,Comedy,54.166666666666664
+Rob Vaux,Cult Movies,83.33333333333334
+Rob Vaux,Documentary,71.42857142857143
+Rob Vaux,Drama,73.46153846153847
+Rob Vaux,Horror,54.78260869565217
+Rob Vaux,Kids & Family,73.86804657179819
+Rob Vaux,Musical & Performing Arts,73.19587628865979
+Rob Vaux,Mystery & Suspense,53.74887082204155
+Rob Vaux,Romance,86.7515923566879
+Rob Vaux,Science Fiction & Fantasy,61.15107913669065
+Rob Vaux,Special Interest,64.70588235294117
+Rob Vaux,Television,83.33333333333334
+Rob Vaux,Western,68.33333333333333
+Robbie Collin,Action & Adventure,56.158192090395474
+Robbie Collin,Animation,71.73913043478261
+Robbie Collin,Art House & International,64.453125
+Robbie Collin,Classics,84.21052631578947
+Robbie Collin,Comedy,47.750229568411385
+Robbie Collin,Documentary,88.63636363636364
+Robbie Collin,Drama,65.6776263031275
+Robbie Collin,Horror,57.95454545454546
+Robbie Collin,Kids & Family,64.70588235294117
+Robbie Collin,Musical & Performing Arts,80.0
+Robbie Collin,Mystery & Suspense,58.51063829787234
+Robbie Collin,Romance,52.13675213675214
+Robbie Collin,Science Fiction & Fantasy,58.429118773946364
+Robbie Collin,Special Interest,89.24731182795699
+Robbie Collin,Sports & Fitness,33.33333333333333
+Robbie Collin,Television,44.44444444444444
+Robbie Collin,Western,82.6086956521739
+Robert Roten,Action & Adventure,77.27272727272727
+Robert Roten,Animation,85.31810766721044
+Robert Roten,Art House & International,83.62369337979094
+Robert Roten,Classics,82.89473684210526
+Robert Roten,Comedy,74.61069735951253
+Robert Roten,Cult Movies,56.25
+Robert Roten,Documentary,91.95804195804196
+Robert Roten,Drama,83.46286701208982
+Robert Roten,Faith & Spirituality,5.88235294117647
+Robert Roten,Horror,47.122302158273385
+Robert Roten,Kids & Family,77.93296089385476
+Robert Roten,Musical & Performing Arts,80.48780487804879
+Robert Roten,Mystery & Suspense,72.57203842049093
+Robert Roten,Romance,84.39024390243902
+Robert Roten,Science Fiction & Fantasy,76.5873015873016
+Robert Roten,Special Interest,89.95633187772926
+Robert Roten,Sports & Fitness,95.83333333333334
+Robert Roten,Television,86.66666666666667
+Robert Roten,Western,83.82352941176471
+Robert W. Butler,Action & Adventure,52.74566473988439
+Robert W. Butler,Animation,71.66666666666667
+Robert W. Butler,Art House & International,77.54237288135593
+Robert W. Butler,Classics,33.33333333333333
+Robert W. Butler,Comedy,54.773869346733676
+Robert W. Butler,Documentary,95.57522123893806
+Robert W. Butler,Drama,66.25290923196276
+Robert W. Butler,Faith & Spirituality,54.54545454545454
+Robert W. Butler,Horror,40.0
+Robert W. Butler,Kids & Family,60.8843537414966
+Robert W. Butler,Musical & Performing Arts,80.64516129032258
+Robert W. Butler,Mystery & Suspense,55.24625267665952
+Robert W. Butler,Romance,51.11111111111111
+Robert W. Butler,Science Fiction & Fantasy,52.36768802228412
+Robert W. Butler,Special Interest,90.9090909090909
+Robert W. Butler,Sports & Fitness,85.71428571428571
+Robert W. Butler,Western,62.5
+Robin Clifford,Action & Adventure,67.88256227758008
+Robin Clifford,Animation,76.67269439421338
+Robin Clifford,Art House & International,44.24357754519505
+Robin Clifford,Classics,90.9090909090909
+Robin Clifford,Comedy,67.8254942058623
+Robin Clifford,Documentary,75.54744525547446
+Robin Clifford,Drama,64.91031390134529
+Robin Clifford,Gay & Lesbian,60.0
+Robin Clifford,Horror,41.281138790035584
+Robin Clifford,Kids & Family,70.18121911037892
+Robin Clifford,Musical & Performing Arts,65.625
+Robin Clifford,Mystery & Suspense,62.96296296296296
+Robin Clifford,Romance,29.462365591397848
+Robin Clifford,Science Fiction & Fantasy,68.71880199667221
+Robin Clifford,Special Interest,68.20276497695853
+Robin Clifford,Sports & Fitness,91.17647058823529
+Robin Clifford,Television,87.5
+Robin Clifford,Western,92.42424242424242
+Roger Ebert,Action & Adventure,56.16846813268729
+Roger Ebert,Animation,83.68932038834951
+Roger Ebert,Art House & International,81.32214060860441
+Roger Ebert,Classics,81.43884892086331
+Roger Ebert,Comedy,57.12890625
+Roger Ebert,Cult Movies,45.65217391304348
+Roger Ebert,Documentary,80.9375
+Roger Ebert,Drama,71.55309033280507
+Roger Ebert,Faith & Spirituality,25.0
+Roger Ebert,Gay & Lesbian,85.71428571428571
+Roger Ebert,Horror,41.47398843930636
+Roger Ebert,Kids & Family,65.9672131147541
+Roger Ebert,Musical & Performing Arts,74.94866529774127
+Roger Ebert,Mystery & Suspense,61.422413793103445
+Roger Ebert,Romance,62.832618025751074
+Roger Ebert,Science Fiction & Fantasy,58.90973036342321
+Roger Ebert,Special Interest,74.38271604938271
+Roger Ebert,Sports & Fitness,68.18181818181817
+Roger Ebert,Television,81.94444444444444
+Roger Ebert,Western,66.66666666666666
+Roger Moore,Action & Adventure,44.60370994940978
+Roger Moore,Animation,60.04273504273504
+Roger Moore,Art House & International,85.50046772684752
+Roger Moore,Classics,83.63636363636363
+Roger Moore,Comedy,44.97095689391624
+Roger Moore,Cult Movies,50.0
+Roger Moore,Documentary,82.35294117647058
+Roger Moore,Drama,64.17665022316184
+Roger Moore,Faith & Spirituality,24.137931034482758
+Roger Moore,Gay & Lesbian,50.0
+Roger Moore,Horror,35.30280649926144
+Roger Moore,Kids & Family,50.48372911169745
+Roger Moore,Musical & Performing Arts,68.59504132231406
+Roger Moore,Mystery & Suspense,49.53703703703704
+Roger Moore,Romance,71.48562300319489
+Roger Moore,Science Fiction & Fantasy,43.025078369905955
+Roger Moore,Special Interest,77.43362831858407
+Roger Moore,Sports & Fitness,67.5
+Roger Moore,Television,62.5
+Roger Moore,Western,46.478873239436616
+Sara Michelle Fetters,Action & Adventure,52.834890965732086
+Sara Michelle Fetters,Animation,66.10738255033557
+Sara Michelle Fetters,Art House & International,82.36994219653178
+Sara Michelle Fetters,Classics,68.75
+Sara Michelle Fetters,Comedy,60.36161335187761
+Sara Michelle Fetters,Documentary,92.10526315789474
+Sara Michelle Fetters,Drama,68.90618598934863
+Sara Michelle Fetters,Faith & Spirituality,80.0
+Sara Michelle Fetters,Horror,50.42016806722689
+Sara Michelle Fetters,Kids & Family,55.43328748280605
+Sara Michelle Fetters,Musical & Performing Arts,75.0
+Sara Michelle Fetters,Mystery & Suspense,53.69774919614147
+Sara Michelle Fetters,Romance,52.9980657640232
+Sara Michelle Fetters,Science Fiction & Fantasy,47.688564476885645
+Sara Michelle Fetters,Special Interest,91.11111111111111
+Sara Michelle Fetters,Sports & Fitness,80.0
+Sara Michelle Fetters,Television,87.5
+Sara Michelle Fetters,Western,72.5
+Scott Nash,Action & Adventure,67.10000000000001
+Scott Nash,Animation,79.40552016985139
+Scott Nash,Art House & International,82.0
+Scott Nash,Classics,96.95945945945947
+Scott Nash,Comedy,68.05143422354105
+Scott Nash,Cult Movies,40.0
+Scott Nash,Documentary,91.66666666666666
+Scott Nash,Drama,74.89669421487604
+Scott Nash,Horror,62.62626262626263
+Scott Nash,Kids & Family,76.53631284916202
+Scott Nash,Musical & Performing Arts,78.3132530120482
+Scott Nash,Mystery & Suspense,75.8364312267658
+Scott Nash,Romance,71.20253164556962
+Scott Nash,Science Fiction & Fantasy,78.71428571428571
+Scott Nash,Special Interest,80.0
+Scott Nash,Sports & Fitness,88.23529411764706
+Scott Nash,Western,67.5
+Scott Weinberg,Action & Adventure,62.43417203042715
+Scott Weinberg,Animation,82.92181069958848
+Scott Weinberg,Art House & International,85.88957055214725
+Scott Weinberg,Classics,81.62729658792651
+Scott Weinberg,Comedy,61.73200702165009
+Scott Weinberg,Cult Movies,91.8918918918919
+Scott Weinberg,Documentary,74.19354838709677
+Scott Weinberg,Drama,73.09868007542426
+Scott Weinberg,Horror,66.33663366336634
+Scott Weinberg,Kids & Family,76.33711507293354
+Scott Weinberg,Musical & Performing Arts,81.30841121495327
+Scott Weinberg,Mystery & Suspense,68.40215439856372
+Scott Weinberg,Romance,65.59485530546624
+Scott Weinberg,Science Fiction & Fantasy,73.76014427412083
+Scott Weinberg,Special Interest,73.14814814814815
+Scott Weinberg,Sports & Fitness,96.42857142857143
+Scott Weinberg,Television,75.0
+Scott Weinberg,Western,76.25
+Sean O'Connell,Action & Adventure,48.58585858585859
+Sean O'Connell,Animation,62.797619047619044
+Sean O'Connell,Art House & International,95.0
+Sean O'Connell,Classics,61.29032258064516
+Sean O'Connell,Comedy,50.95753538717736
+Sean O'Connell,Documentary,90.47619047619048
+Sean O'Connell,Drama,66.44370122630993
+Sean O'Connell,Horror,45.22821576763486
+Sean O'Connell,Kids & Family,53.90946502057613
+Sean O'Connell,Musical & Performing Arts,67.53246753246754
+Sean O'Connell,Mystery & Suspense,49.32659932659932
+Sean O'Connell,Romance,77.93633369923162
+Sean O'Connell,Science Fiction & Fantasy,58.587786259541986
+Sean O'Connell,Special Interest,76.74418604651163
+Sean O'Connell,Sports & Fitness,45.16129032258064
+Sean O'Connell,Western,34.78260869565217
+Sean P. Means,Action & Adventure,49.54367666232073
+Sean P. Means,Animation,57.566765578635014
+Sean P. Means,Anime & Manga,50.0
+Sean P. Means,Art House & International,84.83563096500531
+Sean P. Means,Classics,76.19047619047619
+Sean P. Means,Comedy,46.146146146146144
+Sean P. Means,Cult Movies,25.0
+Sean P. Means,Documentary,74.50980392156863
+Sean P. Means,Drama,65.58171745152355
+Sean P. Means,Faith & Spirituality,40.0
+Sean P. Means,Gay & Lesbian,66.66666666666666
+Sean P. Means,Horror,39.94490358126722
+Sean P. Means,Kids & Family,48.31460674157304
+Sean P. Means,Musical & Performing Arts,60.22099447513812
+Sean P. Means,Mystery & Suspense,48.032407407407405
+Sean P. Means,Romance,74.72636815920399
+Sean P. Means,Science Fiction & Fantasy,55.68181818181818
+Sean P. Means,Special Interest,75.88235294117646
+Sean P. Means,Sports & Fitness,74.54545454545455
+Sean P. Means,Television,69.23076923076923
+Sean P. Means,Western,50.0
+Simon Miraudo,Action & Adventure,71.42857142857143
+Simon Miraudo,Animation,92.53731343283582
+Simon Miraudo,Art House & International,82.88288288288288
+Simon Miraudo,Classics,95.23809523809523
+Simon Miraudo,Comedy,57.3
+Simon Miraudo,Documentary,87.5
+Simon Miraudo,Drama,61.987381703470035
+Simon Miraudo,Horror,58.42696629213483
+Simon Miraudo,Kids & Family,74.85714285714286
+Simon Miraudo,Musical & Performing Arts,82.08955223880598
+Simon Miraudo,Mystery & Suspense,70.64676616915423
+Simon Miraudo,Romance,64.0
+Simon Miraudo,Science Fiction & Fantasy,67.73049645390071
+Simon Miraudo,Special Interest,84.90566037735849
+Simon Miraudo,Television,85.71428571428571
+Simon Miraudo,Western,75.86206896551724
+Stephen Whitty,Action & Adventure,45.87755102040816
+Stephen Whitty,Animation,54.46428571428571
+Stephen Whitty,Art House & International,86.62131519274377
+Stephen Whitty,Classics,52.0
+Stephen Whitty,Comedy,45.44832306639288
+Stephen Whitty,Cult Movies,50.0
+Stephen Whitty,Documentary,58.95522388059702
+Stephen Whitty,Drama,60.09796533534287
+Stephen Whitty,Horror,43.29501915708812
+Stephen Whitty,Kids & Family,49.7196261682243
+Stephen Whitty,Musical & Performing Arts,53.57142857142857
+Stephen Whitty,Mystery & Suspense,44.473007712082264
+Stephen Whitty,Romance,74.48979591836735
+Stephen Whitty,Science Fiction & Fantasy,41.983695652173914
+Stephen Whitty,Special Interest,61.05263157894737
+Stephen Whitty,Sports & Fitness,53.333333333333336
+Stephen Whitty,Television,30.76923076923077
+Stephen Whitty,Western,48.78048780487805
+Steve Rhodes,Action & Adventure,45.790554414784395
+Steve Rhodes,Animation,51.97841726618705
+Steve Rhodes,Art House & International,44.44444444444444
+Steve Rhodes,Classics,80.46875
+Steve Rhodes,Comedy,46.93372898120673
+Steve Rhodes,Cult Movies,66.66666666666666
+Steve Rhodes,Documentary,74.24242424242425
+Steve Rhodes,Drama,50.361548277328794
+Steve Rhodes,Faith & Spirituality,66.66666666666666
+Steve Rhodes,Gay & Lesbian,88.23529411764706
+Steve Rhodes,Horror,24.91103202846975
+Steve Rhodes,Kids & Family,49.1186839012926
+Steve Rhodes,Musical & Performing Arts,47.64397905759162
+Steve Rhodes,Mystery & Suspense,50.09784735812133
+Steve Rhodes,Romance,56.120826709062
+Steve Rhodes,Science Fiction & Fantasy,45.348837209302324
+Steve Rhodes,Special Interest,54.961832061068705
+Steve Rhodes,Sports & Fitness,51.515151515151516
+Steve Rhodes,Television,72.97297297297297
+Steve Rhodes,Western,30.23255813953488
+Steven Rea,Action & Adventure,54.92700729927007
+Steven Rea,Animation,85.25073746312685
+Steven Rea,Art House & International,41.513292433537835
+Steven Rea,Classics,66.66666666666666
+Steven Rea,Comedy,60.26133743274404
+Steven Rea,Cult Movies,77.77777777777779
+Steven Rea,Documentary,96.3963963963964
+Steven Rea,Drama,55.22736105713175
+Steven Rea,Faith & Spirituality,90.9090909090909
+Steven Rea,Horror,53.266331658291456
+Steven Rea,Kids & Family,72.3404255319149
+Steven Rea,Musical & Performing Arts,69.72477064220183
+Steven Rea,Mystery & Suspense,55.816831683168324
+Steven Rea,Romance,25.376344086021508
+Steven Rea,Science Fiction & Fantasy,55.88235294117647
+Steven Rea,Special Interest,95.3125
+Steven Rea,Sports & Fitness,96.29629629629629
+Steven Rea,Television,61.53846153846154
+Steven Rea,Western,63.829787234042556
+Susan Granger,Action & Adventure,51.790763430725725
+Susan Granger,Animation,74.81481481481481
+Susan Granger,Art House & International,25.954198473282442
+Susan Granger,Classics,65.9090909090909
+Susan Granger,Comedy,49.53416149068323
+Susan Granger,Documentary,80.45112781954887
+Susan Granger,Drama,52.69659536004821
+Susan Granger,Faith & Spirituality,95.45454545454545
+Susan Granger,Horror,32.48730964467005
+Susan Granger,Kids & Family,65.53106212424849
+Susan Granger,Musical & Performing Arts,66.19718309859155
+Susan Granger,Mystery & Suspense,50.43782837127846
+Susan Granger,Romance,29.25958965209634
+Susan Granger,Science Fiction & Fantasy,59.881255301102634
+Susan Granger,Special Interest,80.73394495412845
+Susan Granger,Sports & Fitness,58.139534883720934
+Susan Granger,Television,52.94117647058824
+Susan Granger,Western,61.19402985074627
+Tim Brayton,Action & Adventure,52.90697674418605
+Tim Brayton,Animation,66.92307692307692
+Tim Brayton,Art House & International,94.16058394160584
+Tim Brayton,Classics,86.66666666666667
+Tim Brayton,Comedy,58.2089552238806
+Tim Brayton,Cult Movies,85.36585365853658
+Tim Brayton,Documentary,63.44086021505376
+Tim Brayton,Drama,72.15832205683355
+Tim Brayton,Faith & Spirituality,50.0
+Tim Brayton,Horror,43.301435406698566
+Tim Brayton,Kids & Family,64.49814126394052
+Tim Brayton,Musical & Performing Arts,69.45945945945947
+Tim Brayton,Mystery & Suspense,52.27837613918807
+Tim Brayton,Romance,81.33198789101918
+Tim Brayton,Science Fiction & Fantasy,61.945945945945944
+Tim Brayton,Special Interest,51.65562913907284
+Tim Brayton,Sports & Fitness,52.17391304347826
+Tim Brayton,Television,50.0
+Tim Brayton,Western,65.0485436893204
+Tim Robey,Action & Adventure,47.091932457786115
+Tim Robey,Animation,82.78145695364239
+Tim Robey,Art House & International,74.05857740585773
+Tim Robey,Classics,97.36842105263158
+Tim Robey,Comedy,52.67295597484277
+Tim Robey,Cult Movies,80.0
+Tim Robey,Documentary,71.42857142857143
+Tim Robey,Drama,68.02218114602587
+Tim Robey,Faith & Spirituality,33.33333333333333
+Tim Robey,Horror,61.990950226244344
+Tim Robey,Kids & Family,63.095238095238095
+Tim Robey,Musical & Performing Arts,71.73913043478261
+Tim Robey,Mystery & Suspense,53.002070393374744
+Tim Robey,Romance,56.284153005464475
+Tim Robey,Science Fiction & Fantasy,53.62776025236593
+Tim Robey,Special Interest,80.0
+Tim Robey,Sports & Fitness,57.14285714285714
+Tim Robey,Television,40.0
+Tim Robey,Western,22.727272727272727
+Tom Long,Action & Adventure,50.975800156128024
+Tom Long,Animation,69.43699731903486
+Tom Long,Art House & International,82.27146814404432
+Tom Long,Classics,52.94117647058824
+Tom Long,Comedy,57.75558166862515
+Tom Long,Documentary,83.41463414634146
+Tom Long,Drama,63.10904872389791
+Tom Long,Faith & Spirituality,50.0
+Tom Long,Gay & Lesbian,50.0
+Tom Long,Horror,57.407407407407405
+Tom Long,Kids & Family,57.2972972972973
+Tom Long,Musical & Performing Arts,70.1923076923077
+Tom Long,Mystery & Suspense,59.07335907335908
+Tom Long,Romance,50.326797385620914
+Tom Long,Science Fiction & Fantasy,58.06938159879337
+Tom Long,Special Interest,83.13953488372093
+Tom Long,Sports & Fitness,78.26086956521739
+Tom Long,Television,45.0
+Tom Long,Western,65.78947368421053
+Tony Medley,Action & Adventure,54.38950554994955
+Tony Medley,Animation,56.41025641025641
+Tony Medley,Art House & International,56.60377358490566
+Tony Medley,Classics,67.3913043478261
+Tony Medley,Comedy,38.19444444444444
+Tony Medley,Documentary,32.28346456692913
+Tony Medley,Drama,58.85608856088561
+Tony Medley,Horror,72.97297297297297
+Tony Medley,Kids & Family,54.054054054054056
+Tony Medley,Musical & Performing Arts,51.94805194805194
+Tony Medley,Mystery & Suspense,63.338788870703766
+Tony Medley,Romance,51.490514905149055
+Tony Medley,Science Fiction & Fantasy,57.53086419753086
+Tony Medley,Special Interest,38.94736842105263
+Tony Medley,Sports & Fitness,53.06122448979592
+Tony Medley,Television,35.714285714285715
+Tony Medley,Western,74.19354838709677
+Travis Hopson,Action & Adventure,76.01296596434359
+Travis Hopson,Animation,80.0
+Travis Hopson,Art House & International,87.32394366197182
+Travis Hopson,Classics,57.14285714285714
+Travis Hopson,Comedy,71.79962894248608
+Travis Hopson,Drama,74.42786069651741
+Travis Hopson,Horror,71.55963302752293
+Travis Hopson,Kids & Family,77.31092436974791
+Travis Hopson,Musical & Performing Arts,77.14285714285715
+Travis Hopson,Mystery & Suspense,67.75244299674267
+Travis Hopson,Romance,66.96428571428571
+Travis Hopson,Science Fiction & Fantasy,76.74418604651163
+Travis Hopson,Special Interest,88.23529411764706
+Travis Hopson,Western,51.724137931034484
+Ty Burr,Action & Adventure,53.39403973509934
+Ty Burr,Animation,54.77272727272727
+Ty Burr,Art House & International,79.55555555555556
+Ty Burr,Classics,75.0
+Ty Burr,Comedy,44.54545454545455
+Ty Burr,Documentary,74.63235294117648
+Ty Burr,Drama,63.911111111111104
+Ty Burr,Faith & Spirituality,78.57142857142857
+Ty Burr,Horror,49.122807017543856
+Ty Burr,Kids & Family,49.056603773584904
+Ty Burr,Musical & Performing Arts,61.98830409356725
+Ty Burr,Mystery & Suspense,52.071005917159766
+Ty Burr,Romance,50.402144772117964
+Ty Burr,Science Fiction & Fantasy,56.35036496350365
+Ty Burr,Special Interest,66.10169491525424
+Ty Burr,Sports & Fitness,77.77777777777779
+Ty Burr,Television,78.26086956521739
+Ty Burr,Western,52.63157894736842
+Walter Chaw,Action & Adventure,42.34875444839858
+Walter Chaw,Animation,50.132625994694955
+Walter Chaw,Art House & International,63.24503311258278
+Walter Chaw,Classics,78.57142857142857
+Walter Chaw,Comedy,36.48548026805659
+Walter Chaw,Cult Movies,36.36363636363637
+Walter Chaw,Documentary,60.65573770491803
+Walter Chaw,Drama,46.49257552483359
+Walter Chaw,Faith & Spirituality,66.66666666666666
+Walter Chaw,Horror,48.1203007518797
+Walter Chaw,Kids & Family,36.327345309381236
+Walter Chaw,Musical & Performing Arts,42.201834862385326
+Walter Chaw,Mystery & Suspense,48.34437086092716
+Walter Chaw,Romance,35.03184713375796
+Walter Chaw,Science Fiction & Fantasy,37.65786452353617
+Walter Chaw,Special Interest,55.932203389830505
+Walter Chaw,Sports & Fitness,35.13513513513514
+Walter Chaw,Television,68.75
+Walter Chaw,Western,55.932203389830505
+Wesley Morris,Action & Adventure,35.90909090909091
+Wesley Morris,Animation,67.21311475409836
+Wesley Morris,Art House & International,84.72527472527473
+Wesley Morris,Classics,66.66666666666666
+Wesley Morris,Comedy,31.834153197470133
+Wesley Morris,Documentary,62.68656716417911
+Wesley Morris,Drama,49.70387243735763
+Wesley Morris,Faith & Spirituality,5.263157894736842
+Wesley Morris,Gay & Lesbian,42.857142857142854
+Wesley Morris,Horror,27.058823529411764
+Wesley Morris,Kids & Family,49.29577464788733
+Wesley Morris,Musical & Performing Arts,40.0
+Wesley Morris,Mystery & Suspense,36.896551724137936
+Wesley Morris,Romance,69.90077177508269
+Wesley Morris,Science Fiction & Fantasy,41.00529100529101
+Wesley Morris,Special Interest,76.85185185185185
+Wesley Morris,Sports & Fitness,32.25806451612903
+Wesley Morris,Television,41.17647058823529
+Wesley Morris,Western,50.0
+Willie Waffle,Action & Adventure,53.44943067649028
+Willie Waffle,Animation,69.09722222222221
+Willie Waffle,Art House & International,64.1025641025641
+Willie Waffle,Classics,25.0
+Willie Waffle,Comedy,40.150375939849624
+Willie Waffle,Documentary,77.31958762886599
+Willie Waffle,Drama,47.40224959828602
+Willie Waffle,Horror,36.971830985915496
+Willie Waffle,Kids & Family,62.74256144890039
+Willie Waffle,Musical & Performing Arts,48.78048780487805
+Willie Waffle,Mystery & Suspense,48.17320703653586
+Willie Waffle,Romance,42.5629290617849
+Willie Waffle,Science Fiction & Fantasy,53.916449086161876
+Willie Waffle,Special Interest,86.36363636363636
+Willie Waffle,Sports & Fitness,80.95238095238095
+Willie Waffle,Television,18.181818181818183
+Willie Waffle,Western,43.75
